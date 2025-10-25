@@ -1,0 +1,151 @@
+1512e037-d469-4dd7-ba83-a9f94977cf7e:
+  uuid: b86dea4c-4598-3374-824e-c009144e335e
+  owner: Fzfu
+  location:
+    world: lobby
+    x: -244
+    y: 36
+    z: 56
+  price: 10000.0
+  items:
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: EMERALD
+      amount: 64
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: EMERALD
+      amount: 64
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: EMERALD
+      amount: 64
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: EMERALD
+      amount: 64
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: WATER_BUCKET
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: EMERALD
+      amount: 64
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: EMERALD
+      amount: 64
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: EMERALD
+      amount: 48
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: CRAFTING_TABLE
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: RED_WOOL
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: GRASS_BLOCK
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: OAK_TRAPDOOR
+      amount: 64
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: OAK_PLANKS
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: STICK
+      amount: 4
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: EMERALD
+      amount: 64
+a626b054-fbe9-48c2-9142-ee8bbcf13b1f:
+  uuid: b86dea4c-4598-3374-824e-c009144e335e
+  owner: Fzfu
+  location:
+    world: lobby
+    x: -245
+    y: 36
+    z: 58
+  price: 1.1111111E7
+  items:
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: ZOMBIE_SPAWN_EGG
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: GOLD_BLOCK
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: COBBLESTONE
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: LANTERN
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: ZOMBIE_SPAWN_EGG
+      amount: 64
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: ZOMBIE_SPAWN_EGG
+      amount: 64
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: ZOMBIE_SPAWN_EGG
+      amount: 64
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: ZOMBIE_SPAWN_EGG
+      amount: 64
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: ZOMBIE_SPAWN_EGG
+      amount: 64
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: ZOMBIE_SPAWN_EGG
+      amount: 64
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: ZOMBIE_SPAWN_EGG
+      amount: 64
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: ZOMBIE_SPAWN_EGG
+      amount: 64
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: ZOMBIE_SPAWN_EGG
+      amount: 64

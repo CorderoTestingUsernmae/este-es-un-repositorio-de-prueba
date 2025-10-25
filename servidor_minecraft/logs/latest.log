@@ -1,0 +1,937 @@
+[00:01:07] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:01:07] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:01:07] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:01:07] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:01:07] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:01:07] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:01:07] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:01:07] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:01:07] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:01:07] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:01:07] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:01:07] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:01:08] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:03:48] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;1mWARN[0;30;1m][m: No se pudo obtener el material del artículo. Si cree que esto es un error, infórmelo  a  nuestro  servidor  de  soporte  de  discord  que  puede  encontrar  en  la  página  del  complemento.  RED_TERRACOTA[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;1mWARN[0;30;1m][m: Ruta del artículo en config.yml: buy-screen.items.1[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;1mWARN[0;30;1m][m: No se pudo obtener el material del artículo. Si cree que esto es un error, infórmelo  a  nuestro  servidor  de  soporte  de  discord  que  puede  encontrar  en  la  página  del  complemento.  RED_TERRACOTA[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;1mWARN[0;30;1m][m: Ruta del artículo en config.yml: buy-screen.items.2[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;1mWARN[0;30;1m][m: No se pudo obtener el material del artículo. Si cree que esto es un error, infórmelo  a  nuestro  servidor  de  soporte  de  discord  que  puede  encontrar  en  la  página  del  complemento.  RED_TERRACOTA[m
+[00:03:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;1mWARN[0;30;1m][m: Ruta del artículo en config.yml: buy-screen.items.3[m
+[00:03:50] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:04:20] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:04:20] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:04:20] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:04:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:04:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:04:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:04:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:04:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:04:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:04:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:04:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:04:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:04:21] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:07:52] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:07:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:07:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:07:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:07:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:07:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:07:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:07:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:07:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:07:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:07:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:07:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:07:53] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:08:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:08:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:08:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:08:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:08:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:08:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:08:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:08:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:08:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:08:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:08:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:08:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Iniciado - Tomó 73ms para completar[m
+[00:08:48] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:10:29] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:10:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:10:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:10:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:10:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:10:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:10:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:10:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:10:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:10:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:10:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:10:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:10:30] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:10:43] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:10:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:10:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:10:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:10:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:10:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:10:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:10:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:10:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:10:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:10:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:10:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:10:45] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:11:25] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:11:25] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:11:26] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:11:26] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:11:26] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:11:26] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:11:26] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:11:26] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:11:26] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:11:26] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:11:26] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:11:26] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:11:27] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:13:27] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:13:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:13:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:13:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:13:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:13:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:13:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:13:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:13:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:13:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:13:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:13:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:13:28] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:14:21] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:14:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:14:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:14:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:14:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:14:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:14:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:14:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:14:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:14:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:14:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:14:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:14:22] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:14:43] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:14:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:14:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:14:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:14:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:14:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:14:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:14:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:14:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:14:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:14:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:14:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:14:44] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:15:12] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:15:15] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:15:15] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:15:15] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:15:15] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:15:15] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:15:15] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:15:15] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:15:15] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:15:15] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:15:15] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:15:15] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:15:15] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:15:16] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:15:19] [Server thread/INFO]: Fzfu lost connection: Disconnected
+[00:15:29] [User Authenticator #2/INFO]: UUID of player Fzfu is b86dea4c-4598-3374-824e-c009144e335e
+[00:15:29] [Server thread/INFO]: Fzfu[/127.207.253.11:44727] logged in with entity id 214 at ([lobby]-243.63001867595142, 36.0, 58.21659594770311)
+[00:15:38] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:16:00] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:16:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:16:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:16:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:16:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:16:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:16:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:16:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:16:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:16:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:16:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:16:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:16:03] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:16:19] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:16:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:16:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:16:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:16:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:16:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:16:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:16:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:16:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:16:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:16:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:16:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:16:21] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:16:38] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:16:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:16:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:16:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-en.yml as language file[m
+[00:16:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Updating Shop settings...[m
+[00:16:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:16:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completed loading 1 economy provider(s) for all 14 shop sections.[m
+[00:16:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Using minecraft version 1.20.1...[m
+[00:16:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Spawner provider set to AUTO in config[m
+[00:16:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:16:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:16:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Debug mode is enabled.[m
+[00:16:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Loading all items...[m
+[00:16:40] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:16:51] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:17:18] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:17:42] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:17:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completed loading 16 section configs from /sections/[m
+[00:17:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completed loading 16 shop configs from /shops/[m
+[00:17:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:17:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:17:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:17:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:17:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:17:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:17:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:17:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:17:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:17:46] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:18:34] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:18:34] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:18:34] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:18:34] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:18:34] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:18:34] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:18:34] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:18:34] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:18:34] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:18:34] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:18:34] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:18:34] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Iniciado - Tomó 77ms para completar[m
+[00:18:41] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:18:41] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:18:41] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:18:41] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:18:41] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:18:41] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:18:41] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:18:41] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:18:41] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:18:41] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:18:41] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:18:41] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Iniciado - Tomó 51ms para completar[m
+[00:18:43] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:19:52] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:19:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:19:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:19:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:19:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:19:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:19:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:19:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:19:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:19:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:19:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:19:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:19:54] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:20:28] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:20:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:20:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:20:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:20:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:20:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:20:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:20:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:20:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:20:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:20:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:20:29] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Iniciado - Tomó 55ms para completar[m
+[00:20:31] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:20:56] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:20:56] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:20:56] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:20:56] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:20:56] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:20:56] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:20:56] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:20:56] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:20:56] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:20:56] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:20:56] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:20:56] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:20:57] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:21:55] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:21:55] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:21:55] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:21:55] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:21:55] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:21:55] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:21:55] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:21:55] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:21:55] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:21:55] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:21:55] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:21:55] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:21:57] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:22:24] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:22:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:22:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:22:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:22:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:22:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:22:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:22:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:22:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:22:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:22:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:22:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:22:26] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:23:20] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:23:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:23:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:23:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:23:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:23:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:23:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:23:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:23:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:23:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:23:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:23:21] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:23:22] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:25:46] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:25:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:25:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:25:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:25:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:25:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:25:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:25:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:25:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:25:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:25:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:25:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:25:48] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:26:30] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:26:30] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:26:30] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:26:30] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:26:30] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:26:30] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:26:30] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:26:30] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:26:30] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:26:30] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:26:30] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:26:30] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Iniciado - Tomó 68ms para completar[m
+[00:26:59] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[00:27:02] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:27:02] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:27:02] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:27:02] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:27:02] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:27:02] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:27:02] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:27:02] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:27:02] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:27:02] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:27:02] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:27:02] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Iniciado - Tomó 70ms para completar[m
+[00:27:31] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[00:27:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:27:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:27:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:27:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:27:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:27:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:27:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:27:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:27:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:27:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:27:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:27:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Iniciado - Tomó 59ms para completar[m
+[00:29:35] [Server thread/INFO]: Fzfu issued server command: /sr
+[00:29:37] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:29:37] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:29:37] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:29:37] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:29:37] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:29:37] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:29:37] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:29:37] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:29:37] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:29:37] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:29:37] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:29:37] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:29:41] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:30:44] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:31:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:31:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:31:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:31:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:31:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:31:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:31:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:31:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:31:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:31:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:31:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:31:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Iniciado - Tomó 51ms para completar[m
+[00:32:19] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:32:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:32:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:32:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:32:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:32:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:32:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:32:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:32:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:32:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:32:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:32:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:32:21] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:32:35] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:32:35] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:32:35] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:32:35] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:32:35] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:32:35] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:32:35] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:32:35] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:32:35] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:32:35] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:32:35] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:32:35] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:32:38] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:32:52] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:32:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:32:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:32:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:32:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:32:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:32:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:32:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:32:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:32:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:32:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:32:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:32:54] [Server thread/INFO]: Fzfu issued server command: /shopgive
+[00:32:58] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:33:46] [Server thread/INFO]: Fzfu lost connection: Disconnected
+[00:34:11] [User Authenticator #3/INFO]: UUID of player Fzfu is b86dea4c-4598-3374-824e-c009144e335e
+[00:34:11] [Server thread/INFO]: Fzfu[/127.207.253.11:34607] logged in with entity id 298 at ([lobby]-214.8731606915186, 36.0, 70.70746063214807)
+[00:34:15] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:35:20] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:35:20] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:35:20] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:35:20] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:35:20] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:35:20] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:35:20] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:35:20] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:35:20] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:35:20] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:35:20] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:35:20] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:35:23] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:35:46] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:35:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:35:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:35:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:35:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:35:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:35:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:35:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:35:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:35:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:35:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:35:46] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:35:47] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:36:39] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:36:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:36:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:36:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:36:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:36:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:36:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:36:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:36:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:36:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:36:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:36:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:36:41] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:37:31] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:37:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:37:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:37:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:37:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:37:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:37:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:37:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:37:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:37:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:37:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:37:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:37:40] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:39:17] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:39:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:39:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:39:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:39:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:39:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:39:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:39:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:39:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:39:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:39:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:39:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:39:23] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:39:26] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:40:14] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:40:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:40:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:40:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:40:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:40:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:40:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:40:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:40:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:40:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:40:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:40:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:40:16] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:41:06] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:41:06] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:41:06] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:41:06] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:41:06] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:41:06] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:41:06] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:41:06] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:41:06] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:41:06] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:41:06] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:41:06] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:41:08] [Server thread/INFO]: Fzfu issued server command: /shopgive
+[00:41:10] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:41:23] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:42:24] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:42:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:42:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:42:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:42:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:42:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:42:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:42:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:42:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:42:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:42:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:42:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:42:28] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:42:50] [Server thread/INFO]: Fzfu issued server command: /market
+[00:43:17] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:43:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:43:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:43:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:43:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:43:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:43:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:43:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:43:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:43:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:43:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:43:17] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:45:49] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:45:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:45:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:45:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:45:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:45:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:45:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:45:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:45:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:45:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:45:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:45:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:45:51] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:46:49] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:46:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:46:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:46:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:46:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:46:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Failed to match section file with shop file Bloques.yml[m
+[00:46:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Both files inside the /shops/ and /sections/ directory should have the same naming schema for this shop category, skipping...[m
+[00:46:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:46:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 13 secciones de tiendas.[m
+[00:46:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:46:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:46:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:46:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:46:49] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:46:50] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:47:09] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:47:09] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:47:09] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:47:09] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:47:09] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:47:09] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:47:09] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:47:09] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:47:09] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:47:09] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:47:09] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:47:09] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:47:11] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:47:45] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:47:45] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:47:45] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:47:45] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:47:45] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:47:45] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:47:45] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:47:45] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:47:45] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:47:45] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:47:45] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:47:45] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:47:46] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:53:05] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:53:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:53:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:53:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:53:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:53:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:53:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:53:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:53:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:53:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:53:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:53:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:53:07] [Server thread/INFO]: Fzfu issued server command: /gamemode creative
+[00:53:10] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:53:43] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:53:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:53:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:53:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:53:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:53:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:53:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:53:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:53:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:53:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:53:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:53:43] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:53:45] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:54:31] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:54:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:54:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:54:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:54:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:54:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:54:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:54:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:54:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:54:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:54:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:54:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:54:32] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:55:18] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:55:36] [Server thread/INFO]: [0;34;1m[21mShop [0;30;1m[21m>> [mFzfu vendido 6 x Music Disc 5(Music.page1.items.3) para S/1.417,50 con el sell screen.[m
+[00:58:05] [Server thread/INFO]: Fzfu issued server command: /sreload
+[00:58:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[00:58:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[00:58:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[00:58:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[00:58:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[00:58:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[00:58:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[00:58:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[00:58:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[00:58:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[00:58:05] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[00:58:16] [Server thread/INFO]: Fzfu issued server command: /tienda
+[00:58:18] [Server thread/INFO]: Fzfu issued server command: /shop
+[00:58:27] [Server thread/INFO]: [0;34;1m[21mShop [0;30;1m[21m>> [mFzfu compró 2 x Tnt(Bloques.page1.items.11) para S/213,16 con el buy screen.[m
+[00:59:32] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:02:31] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:02:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:02:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:02:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:02:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:02:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:02:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[01:02:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:02:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:02:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:02:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:02:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:03:44] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:03:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:03:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:03:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:03:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:03:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:03:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[01:03:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:03:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:03:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:03:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:03:44] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:04:08] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:04:08] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:04:08] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:04:08] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:04:08] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:04:08] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:04:08] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[01:04:08] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:04:08] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:04:08] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:04:08] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:04:08] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:05:27] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:05:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:05:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:05:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:05:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:05:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:05:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[01:05:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:05:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:05:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:05:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:05:27] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:05:38] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:05:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:05:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:05:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:05:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:05:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:05:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[01:05:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:05:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:05:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:05:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:05:38] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:06:42] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:06:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:06:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:06:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:06:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:06:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Failed to match section file with shop file Encantamientos.yml[m
+[01:06:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Both files inside the /shops/ and /sections/ directory should have the same naming schema for this shop category, skipping...[m
+[01:06:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:06:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 13 secciones de tiendas.[m
+[01:06:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:06:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:06:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:06:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:06:42] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:06:44] [Async Chat Thread - #1/INFO]: [0;36;1m[21mVIP[0;32;1m Fzfu [0;36;1m◕*shop[m
+[01:06:46] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:07:11] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:07:11] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:07:11] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:07:11] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:07:11] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:07:11] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:07:11] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[01:07:11] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:07:11] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:07:11] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:07:11] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:07:11] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:07:14] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:11:47] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:11:47] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:11:47] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:11:47] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:11:47] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:11:47] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Failed to match section file with shop file Miscellaneous.yml[m
+[01:11:47] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Both files inside the /shops/ and /sections/ directory should have the same naming schema for this shop category, skipping...[m
+[01:11:47] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:11:47] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 13 secciones de tiendas.[m
+[01:11:47] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:11:47] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:11:47] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:11:47] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:11:47] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:11:48] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:12:31] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:12:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:12:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:12:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:12:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:12:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Failed to match section file with shop file Miscellaneous.yml[m
+[01:12:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Both files inside the /shops/ and /sections/ directory should have the same naming schema for this shop category, skipping...[m
+[01:12:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:12:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 13 secciones de tiendas.[m
+[01:12:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:12:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:12:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:12:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:12:31] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:12:34] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:12:48] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:12:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:12:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:12:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:12:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:12:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Failed to match section file with shop file Miscellaneous.yml[m
+[01:12:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Both files inside the /shops/ and /sections/ directory should have the same naming schema for this shop category, skipping...[m
+[01:12:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:12:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 13 secciones de tiendas.[m
+[01:12:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:12:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:12:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:12:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:12:48] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:12:49] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:14:52] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:14:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:14:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:14:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:14:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:14:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Failed to match section file with shop file Miscellaneous.yml[m
+[01:14:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Both files inside the /shops/ and /sections/ directory should have the same naming schema for this shop category, skipping...[m
+[01:14:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:14:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 13 secciones de tiendas.[m
+[01:14:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:14:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:14:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:14:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:14:52] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:14:56] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:14:57] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:15:33] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:15:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:15:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:15:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:15:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:15:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Failed to match section file with shop file Miscellaneous.yml[m
+[01:15:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Both files inside the /shops/ and /sections/ directory should have the same naming schema for this shop category, skipping...[m
+[01:15:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:15:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 13 secciones de tiendas.[m
+[01:15:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:15:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:15:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:15:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:15:33] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:15:36] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:16:14] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:16:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:16:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:16:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:16:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:16:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Failed to match section file with shop file Miscellaneous.yml[m
+[01:16:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Both files inside the /shops/ and /sections/ directory should have the same naming schema for this shop category, skipping...[m
+[01:16:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:16:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 13 secciones de tiendas.[m
+[01:16:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:16:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:16:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:16:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:16:14] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:16:16] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Failed to match section file with shop file Miscellaneous.yml[m
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;31;22mERROR[0;30;1m][m: Both files inside the /shops/ and /sections/ directory should have the same naming schema for this shop category, skipping...[m
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 13 secciones de tiendas.[m
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:23:00] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Iniciado - Tomó 49ms para completar[m
+[01:23:04] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:24:19] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:24:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:24:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:24:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:24:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:24:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:24:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[01:24:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:24:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:24:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:24:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:24:19] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:24:21] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:24:53] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:24:53] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:24:54] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:24:54] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:24:54] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:24:54] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:24:54] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 15 secciones de tiendas.[m
+[01:24:54] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:24:54] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:24:54] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:24:54] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:24:54] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:24:55] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:25:39] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:25:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:25:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:25:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:25:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:25:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:25:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[01:25:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:25:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:25:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:25:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:25:39] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:25:42] [Server thread/INFO]: Fzfu issued server command: /shop
+[01:39:23] [Server thread/INFO]: Fzfu issued server command: /sreload
+[01:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Carga completada 16 configuraciones de la sección de /secciones/[m
+[01:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Completada la carga de la configuración de 16 tiendas desde /shops/[m
+[01:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m] [[0;37;22mINFO[0;30;1m][m: Using lang-es.yml as language file[m
+[01:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Actualizando la configuración de la tienda...[m
+[01:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Successfully hooked into Vault and using EssentialsX Economy as economy provider[m
+[01:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.[m
+[01:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Usando minecraft versión 1.20.1...[m
+[01:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Proveedor spawner establecido en AUTO en la configuración[m
+[01:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Automatically searching for compatible spawner provider....[m
+[01:39:23] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Failed to automatically find compatible spawner provider, using default...[m
+[01:39:24] [Server thread/INFO]: [0;30;1m[[0;36;22mEconomyShopGUI[0;30;1m][m [0;30;1m[[0;37;22mINFO[0;30;1m][m: Cargando todos los elementos...[m
+[01:39:25] [Server thread/INFO]: Fzfu issued server command: /shop

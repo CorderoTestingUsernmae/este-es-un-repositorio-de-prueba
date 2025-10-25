@@ -1,0 +1,114 @@
+prefix: '&8(&6zMenu&8) '
+and: y
+vinventory-error: '&cNo se pudo abrir el inventario, ocurrió un error interno. &8(&7ID del inventario: %id%&8)'
+time-day: '%02d %day% %02d %hour% %02d %minute% %02d %second%'
+time-hour: '%02d %hour% %02d minuto(s) %02d %second%'
+time-hour-simple: '%02d:%02d:%02d'
+time-minute: '%02d %minute% %02d %second%'
+time-second: '%02d %second%'
+format-second: segundo
+format-seconds: segundos
+format-minute: minuto
+format-minutes: minutos
+format-hour: hora
+format-hours: horas
+format-day: d
+format-days: días
+command-syntax-error: '&cDebes ejecutar el comando así&7: &a%syntax%'
+command-no-permission: '&cNo tienes permiso para ejecutar este comando.'
+command-no-console: '&cSolo un jugador puede ejecutar este comando.'
+command-no-arg: '&cNo se pudo encontrar el comando con sus argumentos.'
+command-syntax-help: '&f%syntax% &7» &7%description%'
+documentation-information: '&7Documentación&8: &fhttps://docs.zmenu.dev/'
+documentation-information-link: '&7Documentación&8: &f%link%'
+inventory-not-found: '&cNo se pudo encontrar el inventario &f%toName% &cen &f%name%&c.'
+inventory-open-other: '&aHas abierto el inventario &f%name%&a para el jugador &3%player%&a.'
+inventory-open-success: '&aHas abierto el inventario &f%name%&a.'
+inventory-open-error-inventory: '&cNo se pudo encontrar el inventario &f%name%&c.'
+inventory-open-error-command: '&cNo se pudo encontrar el comando &f%name%&c.'
+inventory-open-error-player: '&cNo se pudo encontrar el jugador, por favor especifica uno.'
+inventory-open-error-console: '&cSolo un jugador puede abrir un inventario.'
+inventory-open-item-error: '&cEl inventario &f%name%&c no tiene un ítem de apertura.'
+inventory-open-item-success: '&aHas dado el ítem de apertura al jugador &f%name%&a.'
+description-open: Permite abrir un inventario
+description-save: Permite guardar el ítem que tienes en la mano
+description-reload: Permite recargar los archivos de configuración
+description-version: Muestra la versión del plugin
+description-list: Lista de inventarios
+description-test-dupe: Probar duplicación
+description-open-item: Dar ítem de apertura
+description-download: Descargar un inventario desde un enlace (por ejemplo, de Discord)
+description-login: Iniciar sesión en el sitio web
+description-marketplace: Abrir inventario del mercado
+description-disconnect: En desarrollo
+description-convert: Convertir otras configuraciones a zMenu
+description-editor: Abrir el editor online de zMenu
+description-documentation: Abrir la documentación
+description-players: Muestra la lista de comandos para los datos de los jugadores
+description-players-set: Establecer nuevos datos de jugador. Debes establecer el tiempo de expiración en segundos. Pon 0 para que no expire
+description-players-add: Sumar un valor, solo funciona con números
+description-players-subtract: Restar un valor, solo funciona con números
+description-players-remove: Eliminar datos de un jugador
+description-players-get: Obtener datos de un jugador
+description-players-keys: Devuelve la lista de claves de un jugador
+description-players-clear-all: Limpiar todos los datos de los jugadores
+description-players-clear-player: Limpiar datos de un jugador
+description-open-main-menu: Abrir el menú principal
+description-create: Crear un nuevo archivo de configuración
+description-inventories: Abrir el constructor de inventarios
+reload: '&aHas recargado los archivos de configuración. &8(&7%inventories% inventarios&8)'
+reload-inventory: '&aHas recargado los archivos de inventarios. &8(&7%inventories% inventarios&8)'
+reload-inventory-file: '&aHas recargado el inventario &f%name%&a.'
+reload-command: '&aHas recargado los archivos de comandos.'
+reload-command-file: '&aHas recargado el comando &f%name%&a.'
+reload-command-error: '&cNo fue posible recargar el comando &f%name%&c.'
+reload-files: '&aHas recargado los archivos config.json y messages.yml.'
+players-data-clear-all: '&aHas eliminado los datos de todos los jugadores.'
+players-data-clear-player: '&aHas eliminado los datos del jugador &f%player%&a.'
+players-data-set: '&aHas agregado un dato para el jugador &b%player% &a con la clave &f%key%&a.'
+players-data-add: '&aHas agregado un dato para el jugador &b%player% &a con la clave &f%key%&a.'
+players-data-subtract: '&aHas restado un dato para el jugador &b%player% &a con la clave &f%key%&a.'
+players-data-keys-success: '&aClaves del jugador &f%player%&8: &7%keys%'
+players-data-keys-empty: '&cEl jugador &f%player% &cno tiene claves.'
+players-data-get-success:
+- '&fClave&8: &7%key%'
+- '&fExpira en (timestamp)&8: &7%expiredAt%'
+- '&fValor&8: &7%value%'
+players-data-get-error: '&cNo se pudo encontrar la clave &f%key%&c.'
+players-data-remove-success: '&aHas eliminado la clave &f%key% &adel jugador &b%player%&a.'
+players-data-remove-error: '&cNo se pudo encontrar la clave &f%key%&c.'
+website-login-error-token: '&cTu token parece inválido, por favor inténtalo de nuevo.'
+website-login-error-already: '&cYa estás conectado al sitio.'
+website-login-error-info: '&cOcurrió un error durante la conexión, por favor inténtalo de nuevo.'
+website-login-process: '&7Conexión en progreso, por favor espera.'
+website-login-success:
+- '&aTe has conectado exitosamente al sitio.'
+- '&aAhora puedes acceder a tus recursos comprados y al editor de inventarios.'
+website-not-connect: '&cNecesitas iniciar sesión en el sitio antes de hacer esto.'
+website-already-inventory: '&cYa estás realizando esta acción, espera un momento.'
+website-marketplace-wait: '&7Descargando recursos, espera antes de abrir el inventario.'
+website-inventory-wait: '&7Descargando inventario &f%name%&7, espera antes de abrirlo.'
+website-inventory-exist: '&cEl inventario ya existe. No se pudo descargar.'
+website-inventory-success: '&aInventario &f%name%&a descargado exitosamente. &8(&7usa /zm reload para cargarlo&8)'
+website-inventory-error: '&cOcurrió un error al descargar el archivo.'
+website-marketplace-error: '&cNo se pudieron obtener datos del sitio, por favor inténtalo de nuevo.'
+website-disconnect-success: '&cHas eliminado la conexión con el sitio.'
+website-disconnect-error: '&cNo estás conectado al sitio.'
+website-download-error-type: '&cEl enlace no es un archivo YML.'
+website-download-error-name: '&cNo se pudo encontrar el nombre del archivo.'
+website-download-error-console: '&cOcurrió un error, revisa la consola.'
+website-download-start: '&7Iniciando descarga del inventario, espera por favor.'
+placeholder-never: nunca
+list-empty: '&cNo hay inventarios disponibles.'
+list-info: '&fInventarios de &a%plugin% &8(&7%amount%&8): &7%inventories%'
+inventory-create-error-size: '&cEl tamaño del inventario debe estar entre 9 y 54.'
+inventory-create-error-already: '&cEl archivo &f%name%&c ya existe.'
+inventory-create-error-exception: '&cOcurrió un error&8: &f%error%'
+inventory-create-success: '&aHas creado el inventario &f%name%&a.'
+save-error-empty: '&cDebes tener un ítem en la mano para guardarlo.'
+save-error-name: '&cEl nombre ya existe para este ítem, selecciona otro.'
+save-error-type: '&cNo se pudo encontrar el tipo de guardado.'
+save-success: '&aHas guardado el ítem &f%name%&a.'
+click-cooldown:
+  type: ACTION
+  message: '&cPor favor espera un momento entre dos clics.'

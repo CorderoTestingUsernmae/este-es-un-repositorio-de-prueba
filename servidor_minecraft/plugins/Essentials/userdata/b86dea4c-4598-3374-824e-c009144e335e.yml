@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.207.253.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1761327634479
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1761352426534
+  login: 1761352451985
+money: '1204.34'
+last-account-name: Fzfu
+logoutlocation:
+  world: 2bac0836-4cc6-43c5-b730-172fe8cfe867
+  world-name: lobby
+  x: -214.8731606915186
+  y: 36.0
+  z: 70.70746063214807
+  yaw: 95.415283203125
+  pitch: 10.164661407470703
+homes:
+  casa1:
+    world: 2bac0836-4cc6-43c5-b730-172fe8cfe867
+    world-name: lobby
+    x: -164.22026239690103
+    y: 45.0
+    z: 208.412044029365
+    yaw: -67.19967651367188
+    pitch: 20.70003318786621
+lastlocation:
+  world: 2bac0836-4cc6-43c5-b730-172fe8cfe867
+  world-name: lobby
+  x: -34.5
+  y: 144.0
+  z: -31.03706513140754
+  yaw: 0.0
+  pitch: 0.0

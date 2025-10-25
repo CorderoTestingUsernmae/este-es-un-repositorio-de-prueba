@@ -1,0 +1,70 @@
+commands:
+  disabled: '&7▍ &1Cuenta &8≫ &c&lÉste comando está deshabilitado'
+  player_unregistered: '&7▍ &1Cuenta &8≫ &b&l{player} &e&lfue removido!'
+  errors:
+    player_only: '&7▍ &1Cuenta &8≫ &c&lEste comando solo puede ser usado por jugadores'
+    no_permission: '&7▍ &1Cuenta &8≫ &c&lNo tienes permiso para usar este comando'
+    player_not_found: '&7▍ &1Cuenta &8≫ &c&lJugador no encontrado!'
+    unregister_failed: '&7▍ &1Cuenta &8≫ &c&lError borrando registro, lee la consola
+      para más detalles'
+  set: '&7▍ &1Cuenta &8≫ &e&lLas coordenadas de {type} han sido establecidas en &b&lX:
+    {x}, Y: {y}, Z: {z}, Y: {yaw}, P: {pitch}, &een el mundo &b&l"{world}"'
+  reload: '&7▍ &1Cuenta &8≫ &e&lPlugin recargado!'
+  descriptions:
+    userlogin: '&7▍ &1Cuenta &8≫ &a&lComando principal de UserLogin'
+    login: '&7▍ &1Cuenta &8≫ &a&lTe logea al servidor con la contraseña ingresada'
+    register: '&7▍ &1Cuenta &8≫ &a&lTe registra con la contraseña ingresada'
+    changepassword: '&7▍ &1Cuenta &8≫ &a&lCambia tu contraseña'
+  usages:
+    userlogin: '&7▍ &1Cuenta &8≫ &c&lUso correcto: /userlogin [command] (Usa /ul help
+      para más)'
+    login: '&7▍ &1Cuenta &8≫ &c&lUso correcto: /login <password>'
+    register: '&7▍ &1Cuenta &8≫ &c&lUso correcto: /register <password> <password>'
+    changepassword: '&7▍ &1Cuenta &8≫ &c&lUso correcto: /changepassword <old-password>
+      <new-password> <new-password>'
+
+messages:
+  not_registered: '&7▍ &1Cuenta &8≫ &c&l¡No estás registrado! &a&lUsa &e&l/register
+    <password> <password> &c&lpara registrarte!'
+  already_registered: '&7▍ &1Cuenta &8≫ &c&l¡Ya estás registrado!'
+  incorrect_password: '&7▍ &1Cuenta &8≫ &4&l¡Contraseña incorrecta!'
+  short_password: '&7▍ &1Cuenta &8≫ &c&lTu contraseña debe tener un mínimo de &4&l{chars}
+    &ccaracteres'
+  long_password: '&7▍ &1Cuenta &8≫ &c&lTu contraseña puede tener un máximo de &4&l{chars}
+    &ccaracteres'
+  regex_mismatch: '&7▍ &1Cuenta &8≫ &c&lTu contraseña tiene un patrón inválido!'
+  different_passwords: '&7▍ &1Cuenta &8≫ &c&lLas contraseñas no concuerdan!'
+  already_logged_in: '&7▍ &1Cuenta &8≫ &c&l¡Ya estás logeado!'
+  logged_in: '&7▍ &1Cuenta &8≫ &9&lHas sido logeado!'
+  registered: '&7▍ &1Cuenta &8≫ &9&lHas sido registrado!'
+  register_failed: '&7▍ &1Cuenta &8≫ &c&lRegistro fallido, por favor intenta de nuevo.'
+  welcome:
+    registered: '&7▍ &1Cuenta &8≫ &a&l!Inicia sesión &e&l/login <contraseña>'
+    unregistered: '&7▍ &1Cuenta &8≫ &6&lBienvenido! &a&lUsa &3&l/register <password>
+      <password> &6&lpara registrarte'
+  chat_disabled: '&7▍ &1Cuenta &8≫ &c&lDebes estar logeado para usar el chat!'
+  move_warning: '&7▍ &1Cuenta &8≫ &c&lTienes que logearte para moverte!'
+  timeout: '&7▍ &1Cuenta &8≫ &c&lTe has quedado mucho tiempo sin logearte'
+  max_attempts_exceeded: '&7▍ &1Cuenta &8≫ &c&lHas excedido {count} intentos para
+    logearte, intenta de nuevo'
+  login_announcement: '&7▍ &1Cuenta &8≫ &e&l{player} se ha unido al servidor!'
+  commands_disabled: '&7▍ &1Cuenta &8≫ &c&lTienes que logearte para usar comandos!'
+  must_log_in: '&7▍ &1Cuenta &8≫ &c&lDebes estar logeado para usar este comando'
+  password_changed: '&7▍ &1Cuenta &8≫ &6&lTu contraseña ha sido cambiada'
+  password_change_error: '&7▍ &1Cuenta &8≫ &c&lHubo un error al cambiar tu contraseña'
+  help:
+  - '&7▍ &1Cuenta &8≫ &a&l--------- | &2&l[Ayuda de UserLogin] &a&l| ---------'
+  - '&7▍ &1Cuenta &8≫ &2&l/ul help: &a&lMuestra esta lista de ayuda'
+  - '&7▍ &1Cuenta &8≫ &2&l/ul reload: &a&lRecarga las configuraciones'
+  - '&7▍ &1Cuenta &8≫ &2&l/ul set <login>|<spawn>: &a&lEstablece la posición indicada
+    en tus coordenadas'
+  - '&7▍ &1Cuenta &8≫ &2&l/ul unregister <player>: &a&lElimina el registro del jugador
+    dado'
+  - '&7▍ &1Cuenta &8≫ &a&l-----------------------------------------------------'
+
+other:
+  database_connected: '&7▍ &1Cuenta &8≫ &b&lBase de datos conectada!'
+  database_error: '&7▍ &1Cuenta &8≫ &c&lError al conectar a la base de datos, lea
+    abajo:'
+  driver_missing: '&7▍ &1Cuenta &8≫ &c&lDriver JDBC para la base de datos no encontrado:
+    {driver}'

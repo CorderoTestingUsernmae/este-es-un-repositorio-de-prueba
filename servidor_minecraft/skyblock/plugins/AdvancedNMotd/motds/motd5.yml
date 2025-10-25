@@ -1,0 +1,52 @@
+# ==================================
+# Archivo: motd5.yml
+# Generado por AdvancedNMotd 10.0.1
+# Descripción: Personaliza el motd, el cuadro emergente y el texto de la versión en este archivo
+# ==================================
+
+# Marcadores soportados:
+# 1) %online% - muestra la cantidad real de jugadores en el servidor
+# 2) %fakeOnline% - muestra una cantidad falsa de jugadores (requiere "Data: true" en el archivo "config.yml")
+# 3) %maxPlayers% - muestra la cantidad real de slots del servidor
+# 4) %fakeMaxPlayers% - muestra la cantidad falsa de slots (requiere "Data: true" en "config.yml")
+# 5) %s:numberOfSpaces% - muestra espacios en la cantidad numberOfSpaces (puede omitirse si solo se necesita 1 espacio)
+# 6) %color: ...%
+#   6.1) %color: #COLOR% - agrega cualquier color al motd (usar código hex en vez de #COLOR)
+#   6.2) %color: #FROM->#TO: texto; &code1; &code2...% - muestra un texto con degradado (#FROM y #TO son colores hex; &code1, &code2... son códigos de formato de Minecraft)
+#   Ambas construcciones 6.1 y 6.2 pueden usarse sin nombre de marcador, así: %#COLOR% y %#FROM->#TO: texto; &code1; &code2...%
+#   %color: ...% solo aplica colores en el motd principal, no en el cuadro emergente ni en el texto de la versión
+
+Motd:
+
+  # Texto a mostrar en la línea 1 de tu motd
+  LineOne: 'format: c{%#8B0000->#E4D5D5: ******; &l% %#B51F1A->#F385E5: PePeStudio; &l% &7~&f dulces sueños %#E4D5D5->#8B0000: ******; &l%}'
+
+  # Texto a mostrar en la línea 2 de tu motd
+  LineTwo: 'format: c{%#A3A3A3->#EBEBEB: ****; &l% %#A3A3A3->#EBEBEB: simplemente disfruta la vida; &o% %#EBEBEB->#A3A3A3: ****; &l%}'
+
+  # Iconos a usar de la carpeta icons en conjunto con este motd
+  # (varios iconos se separan con comas; si puede usarse cualquier icono, dejar vacío)
+  Icons: 'icon5.png'
+
+HoverBox:
+
+  # Texto a mostrar al pasar el cursor sobre el texto con la cantidad de jugadores
+  Text:
+    - 'format: c{&f&l%s%PePeStudio}'
+    - 'format: c{&7&m%s:32%&r}'
+    - ':'
+    - 'format: c{La leyenda del mundo dice que sólo el}'
+    - 'format: c{jugador más valiente está listo para competir en}'
+    - 'format: c{%serverName%. Enfrenta batallas increíbles,}'
+    - 'format: c{muestra resultados perfectos y gana increíbles}'
+    - 'format: c{recompensas. Obtén la gloria y el respeto que}'
+    - 'format: c{mereces. ¡Únete! Ya hay %fakeOnline%}'
+    - 'format: c{jugadores compitiendo. ¡Véncelos a todos!}'
+    - ':'
+    - 'format: c{&7&m%s:32%&r}'
+    - 'format: c{&7Discord: &lhttps://discord.com/invite/CvJf7quRrf}'
+
+Version:
+
+  # Texto a mostrar en lugar de la cantidad de jugadores conectados
+  Text: 'text: &4&n¡Entra!&r%s:45%&c&oÚnete a &l%fakeOnline%&c&o otros jugadores!'
