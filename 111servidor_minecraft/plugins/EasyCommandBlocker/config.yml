@@ -1,0 +1,46 @@
+tab:
+  default:
+    priority: 0
+    commands:
+     - "/login"
+     - "/register"
+     - "/tpa"
+     - "/home"
+     - "/homes"
+     - "/sethome"
+     - "/delhome"
+     - "/tpaccept"
+     - "/tpcancel"
+
+  vip:
+    priority: 1
+    extends: default
+    commands:
+      - "/home"
+blocked_command_default_actions:
+  - "message: &8[&b&lPePeStudio&8] &cNo tienes permisos para usar ese comando."
+  - "playsound: BLOCK_NOTE_BLOCK_PLING;10;0.1"
+  - "title: 20;40;20;&c¿Qué estás haciendo?;&7¡No uses ese comando!"
+  - "give_potion_effect: BLINDNESS;180;1"
+
+use_commands_as_whitelist: true
+is_network: false
+update_notify: true
+commands:
+  - "/login"
+  - "/register"
+  - "/tpa"
+  - "/home"
+  - "/homes"
+  - "/sethome"
+  - "/tpaccept"
+  - "/tpcancel"
+
+custom_commands_actions:
+  example1:
+    commands:
+      - "/ver"
+      - "/version"
+    actions:
+      - "console_command: kick %player% ¡No puedes ver la versión del servidor!"
+

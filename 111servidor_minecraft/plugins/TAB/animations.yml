@@ -1,0 +1,126 @@
+MyAnimation1:
+  change-interval: 100
+  texts:
+    - '&d-&3--------------'
+    - '&3-&d-&3-------------'
+    - '&3--&d-&3------------'
+    - '&3---&d-&3-----------'
+    - '&3----&d-&3----------'
+    - '&3-----&d-&3---------'
+    - '&3------&d-&3--------'
+    - '&3-------&d-&3-------'
+    - '&3--------&d-&3------'
+    - '&3---------&d-&3-----'
+    - '&3----------&d-&3----'
+    - '&3-----------&d-&3---'
+    - '&3------------&d-&3--'
+    - '&3-------------&d-&3-'
+    - '&3--------------&d-'
+    - '&3-------------&d-&3-'
+    - '&3------------&d-&3--'
+    - '&3-----------&d-&3---'
+    - '&3----------&d-&3----'
+    - '&3---------&d-&3-----'
+    - '&3--------&d-&3------'
+    - '&3-------&d-&3-------'
+    - '&3------&d-&3--------'
+    - '&3-----&d-&3---------'
+    - '&3----&d-&3----------'
+    - '&3---&d-&3-----------'
+    - '&3--&d-&3------------'
+    - '&3-&d-&3-------------'
+    - '&d-&3--------------'
+ServerName:
+  change-interval: 300
+  texts:
+  - '&c&lServerName'
+  - '&c&n&lServerName'
+  - '&b&lServerName'
+  - '&b&l&nServerName'
+  - '&e&lServerName'
+  - '&e&n&lServerName'
+
+vote:
+  change-interval: 1000
+  texts:
+  - '&avote.domain.com'
+  - '&a&nvote.domain.com'
+  - '&5vote.domain.com'
+  - '&5&nvote.domain.com'
+
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW
+
+PePe_Studio:
+  change-interval: 100
+  texts:
+  - "&#37476A&lP&#214F76&le&#37476A&lP&#4D3F5E&le &#643753&lS&#7A2F47&lt&#90283B&lu&#A6202F&ld&#BC1823&li&#D31018&lo"
+  - "&#4D3F5E&lP&#37476A&le&#214F76&lP&#37476A&le &#4D3F5E&lS&#643753&lt&#7A2F47&lu&#90283B&ld&#A6202F&li&#BC1823&lo"
+  - "&#643753&lP&#4D3F5E&le&#37476A&lP&#214F76&le &#37476A&lS&#4D3F5E&lt&#643753&lu&#7A2F47&ld&#90283B&li&#A6202F&lo"
+  - "&#7A2F47&lP&#643753&le&#4D3F5E&lP&#37476A&le &#214F76&lS&#37476A&lt&#4D3F5E&lu&#643753&ld&#7A2F47&li&#90283B&lo"
+  - "&#90283B&lP&#7A2F47&le&#643753&lP&#4D3F5E&le &#37476A&lS&#214F76&lt&#37476A&lu&#4D3F5E&ld&#643753&li&#7A2F47&lo"
+  - "&#A6202F&lP&#90283B&le&#7A2F47&lP&#643753&le &#4D3F5E&lS&#37476A&lt&#214F76&lu&#37476A&ld&#4D3F5E&li&#643753&lo"
+  - "&#BC1823&lP&#A6202F&le&#90283B&lP&#7A2F47&le &#643753&lS&#4D3F5E&lt&#37476A&lu&#214F76&ld&#37476A&li&#4D3F5E&lo"
+  - "&#D31018&lP&#BC1823&le&#A6202F&lP&#90283B&le &#7A2F47&lS&#643753&lt&#4D3F5E&lu&#37476A&ld&#214F76&li&#37476A&lo"
+  - "&#E9080C&lP&#D31018&le&#BC1823&lP&#A6202F&le &#90283B&lS&#7A2F47&lt&#643753&lu&#4D3F5E&ld&#37476A&li&#214F76&lo"
+  - "&#FF0000&lP&#E9080C&le&#D31018&lP&#BC1823&le &#A6202F&lS&#90283B&lt&#7A2F47&lu&#643753&ld&#4D3F5E&li&#37476A&lo"
+  - "&#E9080C&lP&#FF0000&le&#E9080C&lP&#D31018&le &#BC1823&lS&#A6202F&lt&#90283B&lu&#7A2F47&ld&#643753&li&#4D3F5E&lo"
+  - "&#D31018&lP&#E9080C&le&#FF0000&lP&#E9080C&le &#D31018&lS&#BC1823&lt&#A6202F&lu&#90283B&ld&#7A2F47&li&#643753&lo"
+  - "&#BC1823&lP&#D31018&le&#E9080C&lP&#FF0000&le &#E9080C&lS&#D31018&lt&#BC1823&lu&#A6202F&ld&#90283B&li&#7A2F47&lo"
+  - "&#A6202F&lP&#BC1823&le&#D31018&lP&#E9080C&le &#FF0000&lS&#E9080C&lt&#D31018&lu&#BC1823&ld&#A6202F&li&#90283B&lo"
+  - "&#90283B&lP&#A6202F&le&#BC1823&lP&#D31018&le &#E9080C&lS&#FF0000&lt&#E9080C&lu&#D31018&ld&#BC1823&li&#A6202F&lo"
+  - "&#7A2F47&lP&#90283B&le&#A6202F&lP&#BC1823&le &#D31018&lS&#E9080C&lt&#FF0000&lu&#E9080C&ld&#D31018&li&#BC1823&lo"
+  - "&#643753&lP&#7A2F47&le&#90283B&lP&#A6202F&le &#BC1823&lS&#D31018&lt&#E9080C&lu&#FF0000&ld&#E9080C&li&#D31018&lo"
+  - "&#4D3F5E&lP&#643753&le&#7A2F47&lP&#90283B&le &#A6202F&lS&#BC1823&lt&#D31018&lu&#E9080C&ld&#FF0000&li&#E9080C&lo"
+  - "&#37476A&lP&#4D3F5E&le&#643753&lP&#7A2F47&le &#90283B&lS&#A6202F&lt&#BC1823&lu&#D31018&ld&#E9080C&li&#FF0000&lo"
+  - "&#214F76&lP&#37476A&le&#4D3F5E&lP&#643753&le &#7A2F47&lS&#90283B&lt&#A6202F&lu&#BC1823&ld&#D31018&li&#E9080C&lo"
+nav1_>>:
+  change-interval: 100
+  texts:
+  - "&#2D353C&l>&#79987B&l>"
+  - "&#79987B&l>&#2D353C&l>"
+nav1_<<:
+  change-interval: 100
+  texts:
+  - "&#2D353C&l<&#79987B&l<"
+  - "&#79987B&l<&#2D353C&l<"
+
+Estás_jugando_en:
+  change-interval: 200
+  texts:
+    - "&#79987B&lE"
+    - "&#79987B&lE&#79987B&ls"
+    - "&#79987B&lE&#79987B&ls&#79987B&lt"
+    - "&#79987B&lE&#79987B&ls&#79987B&lt&#79987B&la"
+    - "&#79987B&lE&#79987B&ls&#79987B&lt&#79987B&la&#79987B&ls"
+    - "&#79987B&lE&#79987B&ls&#79987B&lt&#79987B&la&#79987B&ls &#79987B&lJ"
+    - "&#79987B&lE&#79987B&ls&#79987B&lt&#79987B&la&#79987B&ls &#79987B&lJ&#79987B&lu"
+    - "&#79987B&lE&#79987B&ls&#79987B&lt&#79987B&la&#79987B&ls &#79987B&lJ&#79987B&lu&#728F75&lg"
+    - "&#79987B&lE&#79987B&ls&#79987B&lt&#79987B&la&#79987B&ls &#79987B&lJ&#79987B&lu&#728F75&lg&#6B8670&la"
+    - "&#79987B&lE&#79987B&ls&#79987B&lt&#79987B&la&#79987B&ls &#79987B&lJ&#79987B&lu&#728F75&lg&#6B8670&la&#647D6A&ln"
+    - "&#79987B&lE&#79987B&ls&#79987B&lt&#79987B&la&#79987B&ls &#79987B&lJ&#79987B&lu&#728F75&lg&#6B8670&la&#647D6A&ln&#5D7464&ld"
+    - "&#79987B&lE&#79987B&ls&#79987B&lt&#79987B&la&#79987B&ls &#79987B&lJ&#79987B&lu&#728F75&lg&#6B8670&la&#647D6A&ln&#5D7464&ld&#566B5E&lo"
+    - "&#79987B&lE&#79987B&ls&#79987B&lt&#79987B&la&#79987B&ls &#79987B&lJ&#79987B&lu&#728F75&lg&#6B8670&la&#647D6A&ln&#5D7464&ld&#566B5E&lo &#506259&le"
+    - "&#79987B&lE&#79987B&ls&#79987B&lt&#79987B&la&#79987B&ls &#79987B&lJ&#79987B&lu&#728F75&lg&#6B8670&la&#647D6A&ln&#5D7464&ld&#566B5E&lo &#506259&le&#495953&ln"
+    - "&#79987B&lE&#79987B&ls&#79987B&lt&#79987B&la&#79987B&ls &#79987B&lJ&#79987B&lu&#728F75&lg&#6B8670&la&#647D6A&ln&#5D7464&ld&#566B5E&lo &#506259&le&#495953&ln&#42504D&l:"
+
+Discord:
+  change-interval: 100
+  texts:
+  - "&#1558E2&lD&#1558E2&li&#1558E2&ls&#1558E2&lc&#1C4BE6&lo&#223FEA&lr&#2932ED&ld"
+  - "&#1558E2&lD&#1558E2&li&#1558E2&ls&#1558E2&lc&#1558E2&lo&#1C4BE6&lr&#223FEA&ld"
+  - "&#1C4BE6&lD&#1558E2&li&#1558E2&ls&#1558E2&lc&#1558E2&lo&#1558E2&lr&#1C4BE6&ld"
+  - "&#223FEA&lD&#1C4BE6&li&#1558E2&ls&#1558E2&lc&#1558E2&lo&#1558E2&lr&#1558E2&ld"
+  - "&#2932ED&lD&#223FEA&li&#1C4BE6&ls&#1558E2&lc&#1558E2&lo&#1558E2&lr&#1558E2&ld"
+  - "&#2F25F1&lD&#2932ED&li&#223FEA&ls&#1C4BE6&lc&#1558E2&lo&#1558E2&lr&#1558E2&ld"
+  - "&#2932ED&lD&#2F25F1&li&#2932ED&ls&#223FEA&lc&#1C4BE6&lo&#1558E2&lr&#1558E2&ld"
+  - "&#223FEA&lD&#2932ED&li&#2F25F1&ls&#2932ED&lc&#223FEA&lo&#1C4BE6&lr&#1558E2&ld"
+  - "&#1C4BE6&lD&#223FEA&li&#2932ED&ls&#2F25F1&lc&#2932ED&lo&#223FEA&lr&#1C4BE6&ld"
+  - "&#1558E2&lD&#1C4BE6&li&#223FEA&ls&#2932ED&lc&#2F25F1&lo&#2932ED&lr&#223FEA&ld"
+  - "&#1558E2&lD&#1558E2&li&#1C4BE6&ls&#223FEA&lc&#2932ED&lo&#2F25F1&lr&#2932ED&ld"
+  - "&#1558E2&lD&#1558E2&li&#1558E2&ls&#1C4BE6&lc&#223FEA&lo&#2932ED&lr&#2F25F1&ld"

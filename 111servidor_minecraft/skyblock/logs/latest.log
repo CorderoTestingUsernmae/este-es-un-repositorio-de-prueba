@@ -1,0 +1,832 @@
+[02:17:12] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:17:13] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:minecraft:entities/vex - Not a json array: {"function":"minecraft:set_custom_data","tag":"{skyblock:{tag:allay},NoGravity:1b,PickupDelay:32767,Invunerable:1b}"}
+[02:17:14] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:minecraft:gameplay/fishing - No key name in MapLike[{"type":"minecraft:loot_table","value":"minecraft:gameplay/fishing/fish","weight":85,"quality":-1}]; No key name in MapLike[{"type":"minecraft:loot_table","value":"minecraft:gameplay/fishing/treasure","weight":5,"quality":2}]; No key name in MapLike[{"type":"minecraft:loot_table","value":"minecraft:gameplay/fishing/junk","weight":10,"quality":-2}]
+[02:17:14] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:minecraft:entities/guardian - Not a json array: {"function":"minecraft:set_custom_data","tag":"{skyblock:{tag:elder_guardian},NoGravity:1b,PickupDelay:32767,Invunerable:1b}"}; No key name in MapLike[{"type":"minecraft:loot_table","value":"minecraft:gameplay/fishing/fish","functions":[{"function":"minecraft:furnace_smelt","conditions":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"flags":{"is_on_fire":true}}}]}]}]
+[02:17:14] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:skyblock:archaeology/crafting_archaeology - No key name in MapLike[{"type":"minecraft:loot_table","value":"skyblock:archaeology/crafting_archaeology/pottery_shards","weight":10}]; No key name in MapLike[{"type":"minecraft:loot_table","value":"skyblock:archaeology/crafting_archaeology/smithing_templates","weight":1}]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:sand
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:sand","count":8}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:red_sand
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:red_sand","count":1}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:calcite
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:calcite","count":2}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:horn_coral_block
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:horn_coral_block","count":1}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:bubble_coral_block
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:bubble_coral_block","count":1}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:brain_coral_block
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:brain_coral_block","count":1}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:suspicious_gravel
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:suspicious_gravel","count":1}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:cobbled_deepslate
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:cobbled_deepslate","count":2}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:bundle
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:bundle","count":1}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:tuff
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:tuff","count":1}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:piglin_banner_pattern
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:piglin_banner_pattern","count":1}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:tube_coral_block
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:tube_coral_block","count":1}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:suspicious_sand
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:suspicious_sand","count":1}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:fire_coral_block
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:fire_coral_block","count":1}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/ERROR]: Parsing error loading recipe minecraft:soul_soil
+com.google.gson.JsonParseException: No key item in MapLike[{"id":"minecraft:soul_soil","count":2}]
+	at net.minecraft.SystemUtils.a(SourceFile:984) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:189) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:70) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.world.item.crafting.CraftingManager.a(CraftingManager.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.packs.resources.ResourceDataAbstract.a(SourceFile:13) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.Reloadable.a(SourceFile:69) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.a(SourceFile:951) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.SystemUtils.c(SourceFile:939) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at net.minecraft.server.Main.main(Main.java:217) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.Main.main(Main.java:225) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3950-Spigot-2888990-d485cde]
+	at org.bukkit.craftbukkit.bootstrap.Main.lambda$1(Main.java:60) ~[paper.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:17:14] [ServerMain/INFO]: Loaded 7 recipes
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/get_shulker_box: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/fall_64_blocks: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/killed_spider: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/dye_sheeps: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/root: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/get_all_colors_concrete: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_all_coral_blocks: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/root: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/get_all_vines: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/harvest_from_a_safe_hive: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/slabs: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/killed_drowned: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/get_sponges: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/killed_warden: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/furnaces: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/enchant_item: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/get_prismarine_items: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_64_nether_wart: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/get_64_dried_kelp_blocks: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/get_copper_ingot: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/fall_from_dripleaf: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/step_on_sculk_shrieker: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/get_all_small_flowers: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/get_64_slime_balls: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_64_gold_nugget: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/stone_pickaxe: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/get_64_of_all_crops: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/spread_moss: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_emerald: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/kill_axolotl_target: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/feed_chickens: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/all_islands: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/lightning_rod_with_villager_no_fire: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/place_mycelium: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_64_magma_block: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/light_all_candles: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/get_elytra: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/respawn_dragon: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/get_beehive: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/killed_creeper: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/get_64_honeycombs: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/come_to_pillager_outpost: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/get_16_honey_bottles: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_64_sculks: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/enchant_with_silk_touch: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/reach_flower_forest: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_more_mushrooms: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/killed_dragon: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/play_all_goat_horns: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/cobblestone_generator: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/trading_with_piglins: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/adventuring_time: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/come_to_island: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/nether: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_amethyst_shard: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/get_tuff_and_deepslate: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/get_bundle: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/kill_wither_skeleton: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/place_spore_blossom: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/build_mob_farm: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/breed_sniffer: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/summon_snow_golem: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/get_clay_ball: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/get_64_of_all_witch_drops: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/tame_equines: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/get_experience: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/get_more_pointed_dripstones: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/balanced_diet: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/nether_islands: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_netherite_ingot: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/hero_of_the_village_5: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/kill_all_mobs_near_sculk_catalyst: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/killed_dragon_with_dragon_head: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/killed_spider_with_effect: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/kill_all_types_of_zombies: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/get_64_azaleas: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_wither_skeleton_skull: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_grass_block: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/reach_other_biome: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/get_oxided_copper: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/wooden_pickaxe: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/root: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/use_glow_ink_sac: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/get_bad_omen: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_corals: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/enter_end_gateway: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_all_variants_frogs: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/catch_a_treasure: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_64_sea_pickles: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/kill_all_mobs: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/levitation: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/use_spyglass: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/plant_all_saplings: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/metamorphosis_mob_with_channeled_lightning: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_brewing_stand: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/tadpole_in_a_bucket: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/root: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/bred_turtles: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/get_64_ice: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/reach_all_nether_biomes: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/killed_zombie: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/remove_poison_with_honey: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/killed_warden_in_each_dimension: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/enter_end_city: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_64_amethyst_shards: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/wood_farm: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_gravel: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/animal_platform: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/allay_deliver_item_to_player: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/get_mining_fatigue: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_64_tinted_glass: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/get_all_deepslate_variants: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/spyglass_at_dragon: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/brewed_potion: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_red_sand: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/killed_witch_with_potions: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_nyliums: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/all_of_wood: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/cut_sheep_wool: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/use_glow_item_frame: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/breed_axolotl: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/root: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_ghast_tear: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/use_turtle_helmet: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/hero_of_the_village: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/get_dragon_egg: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/froglights: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/enter_lava_cauldron: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_blindness_and_darkness: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/root: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/get_lingering_potion: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_basalt: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_64_iron_ingots: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/ride_pig: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/activate_beacon: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/get_wood: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_64_emerald_block: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/come_to_witch_hut: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/leash_cow: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/get_dragon_breath: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/get_dragon_head: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_blaze_rod: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_64_calcites: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_recovery_compass: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/charged_creeper_hurt_player: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/get_powder_snow: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/cured_zombie_villager: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/get_64_dripstone_blocks: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/spread_nylium: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_netherrack: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/tame_all_wolfs_variants: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/drink_turtle_master_potion: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/tame_all_cats_variants: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_64_sands: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/get_scute: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/used_ender_chest: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/killed_skeleton: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/get_conduit_power_effect: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/channeled_lightning_in_a_lightning_rod: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/get_64_of_all_logs: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/plant_a_seed: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/killed_skeleton_to_50_meters: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/used_totem: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/get_a_hoe: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/get_jump_boost_effect: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/all_the_jobs: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/play_all_discs: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/spyglass_at_wither: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/brush_suspicious_sand_or_gravel: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/avoid_vibration: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_all_of_netherite: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/get_sapling: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_soul_sand: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/return_to_sender: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/fly_20_kilometers: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/bred_all_animals: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/trade_small_dripleaf: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/get_camels: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/killed_glow_squid: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/reach_snowy_biome: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_64_nether_stems: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_magma_cream: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/activate_all_end_gateways: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/villager: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/end: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/kill_a_mob: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/get_suspicius_stew_with_brown_mooshroom: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/filled_axolotl_bucket: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_64_dirt_and_coarse_dirt_blocks: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/fishing_rod_hooked: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/killed_shulker: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:skyblock/cooked_food: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/killed_rabbit: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/reach_the_fortress: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/get_all_heads_and_skulls: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/ride_strider: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/placed_kelp: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/root: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/get_ancient_debris: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/craft_decorated_pot_using_only_sherds: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/come_to_monument: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:sand_island/come_to_a_structure: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/brush_armadillo: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:geode_island/spread_sculk: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/eat_chorus_fruit: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/use_bone_meal_on_cave_vine: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/armor_trimmed: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:cave_island/get_a_trident: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/kill_wither: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:forest_island/slept_in_bed: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:nether/trade_with_wandering_trader: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [ServerMain/ERROR]: Parsing error loading custom advancement skyblock:end/plant_chorus_fruit: Unsupported icon type, currently only items are supported (add 'item' key)
+[02:17:14] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[02:17:14] [Server thread/INFO]: Loading properties
+[02:17:15] [Server thread/INFO]: This server is running CraftBukkit version 3950-Spigot-2888990-d485cde (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT)
+[02:17:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:17:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:17:15] [Server thread/INFO]: Debug logging is disabled
+[02:17:15] [Server thread/INFO]: Default game type: SURVIVAL
+[02:17:15] [Server thread/INFO]: Generating keypair
+[02:17:15] [Server thread/INFO]: Starting Minecraft server on *:25580
+[02:17:15] [Server thread/INFO]: Using epoll channel type
+[02:17:16] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[02:17:16] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.5.0
+[02:17:16] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0 is now loaded. Registering protocol transformers and injecting...
+[02:17:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[02:17:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[02:17:17] [Server thread/ERROR]: [ViaBackwards] ================================
+[02:17:17] [Server thread/ERROR]: [ViaBackwards] YOUR VIAVERSION IS OUTDATED (you are running 5.5.0)
+[02:17:17] [Server thread/ERROR]: [ViaBackwards] PLEASE USE VIAVERSION 5.5.1 OR NEWER
+[02:17:17] [Server thread/ERROR]: [ViaBackwards] LINK: https://ci.viaversion.com/
+[02:17:17] [Server thread/ERROR]: [ViaBackwards] VIABACKWARDS WILL NOW DISABLE
+[02:17:17] [Server thread/ERROR]: [ViaBackwards] ================================
+[02:17:17] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[02:17:17] [Server thread/INFO]: [UltimateHomes] Loading UltimateHomes v3.1
+[02:17:17] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.5.1
+[02:17:17] [Server thread/INFO]: [UserLogin] Loading UserLogin v2.13.1
+[02:17:17] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.4.0
+[02:17:17] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v4.0.11
+[02:17:17] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v8.0
+[02:17:17] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.5.0
+[02:17:18] [Server thread/INFO]: [AdvancedNMotd] Loading AdvancedNMotd v10.0.1
+[02:17:18] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[02:17:18] [Server thread/INFO]: [EasyCommandBlocker] Loading EasyCommandBlocker v1.15.1
+[02:17:18] [Server thread/INFO]: [CoreLogging] Loading Multiverse-Core v5.3.2
+[02:17:18] [Server thread/INFO]: [Essentials] Loading Essentials v2.21.2
+[02:17:18] [Server thread/INFO]: [sleep-most] Loading sleep-most v5.6.0
+[02:17:18] [Server thread/INFO]: [TAB] Loading TAB v5.3.2
+[02:17:18] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.22.0-dev+40-150dabb
+[02:17:18] [Server thread/INFO]: [ChatManager] Loading ChatManager v3.7.7
+[02:17:18] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.30.1
+[02:17:18] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
+[02:17:18] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.11
+[02:17:18] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
+[02:17:18] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[02:17:18] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.5.0[m
+[02:17:18] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[02:17:18] [Server thread/INFO]: [m
+[02:17:18] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:17:18] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
+[02:17:18] [Server thread/INFO]: luckperms-hikari - Starting...
+[02:17:19] [Server thread/INFO]: luckperms-hikari - Start completed.
+[02:17:19] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[02:17:19] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:17:19] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:17:20] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2156ms)
+[02:17:20] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[02:17:20] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.21.2 which is not a depend or softdepend of this plugin.
+[02:17:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[02:17:20] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[02:17:20] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[02:17:20] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[02:17:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:17:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:17:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:17:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:17:20] [Server thread/INFO]: Preparing level "SKYBLOCK"
+[02:17:20] [Server thread/INFO]: -------- World Settings For [SKYBLOCK] --------
+[02:17:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02:17:20] [Server thread/INFO]: Max TNT Explosions: 100
+[02:17:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:17:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:17:20] [Server thread/INFO]: Mob Spawn Range: 6
+[02:17:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02:17:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02:17:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02:17:20] [Server thread/INFO]: View Distance: 10
+[02:17:20] [Server thread/INFO]: Simulation Distance: 4
+[02:17:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:17:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:17:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:17:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:17:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:17:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:17:20] [Server thread/INFO]: -------- World Settings For [SKYBLOCK_nether] --------
+[02:17:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02:17:20] [Server thread/INFO]: Max TNT Explosions: 100
+[02:17:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:17:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:17:20] [Server thread/INFO]: Mob Spawn Range: 6
+[02:17:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02:17:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02:17:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02:17:20] [Server thread/INFO]: View Distance: 10
+[02:17:20] [Server thread/INFO]: Simulation Distance: 4
+[02:17:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:17:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:17:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:17:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:17:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:17:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:17:20] [Server thread/INFO]: -------- World Settings For [SKYBLOCK_the_end] --------
+[02:17:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02:17:20] [Server thread/INFO]: Max TNT Explosions: 100
+[02:17:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:17:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:17:20] [Server thread/INFO]: Mob Spawn Range: 6
+[02:17:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[02:17:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[02:17:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[02:17:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[02:17:20] [Server thread/INFO]: View Distance: 10
+[02:17:20] [Server thread/INFO]: Simulation Distance: 4
+[02:17:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:17:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:17:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:17:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:17:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:17:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:17:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:17:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:17:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:17:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:17:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:17:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:17:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:17:23] [Worker-Main-1/INFO]: Preparing spawn area: 8%
+[02:17:24] [Server thread/INFO]: Time elapsed: 3471 ms
+[02:17:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:17:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:17:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:17:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:17:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:17:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:17:26] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[02:17:26] [Server thread/INFO]: Time elapsed: 2644 ms
+[02:17:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:17:28] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[02:17:29] [Server thread/INFO]: Time elapsed: 2377 ms
+[02:17:29] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[02:17:29] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[02:17:29] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0
+[02:17:29] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.2 (764)
+[02:17:29] [Server thread/WARN]: [ViaVersion] Please update your Java runtime to at least Java 21 (your version is 17.0.16).
+[02:17:29] [Server thread/WARN]: [ViaVersion] At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[02:17:29] [Server thread/INFO]: [UltimateHomes] Enabling UltimateHomes v3.1
+[02:17:29] [Server thread/INFO]: [m
+[02:17:29] [Server thread/INFO]: [0;32;1m--------------------------------------[m
+[02:17:29] [Server thread/INFO]: [0;37;1m       UltimateHomes by kixmc[m
+[02:17:29] [Server thread/INFO]: [0;37;1m       Enabled on version 3.1[m
+[02:17:29] [Server thread/INFO]: [0;32;1m--------------------------------------[m
+[02:17:29] [Server thread/INFO]:  [m
+[02:17:29] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.5.1
+[02:17:29] [Server thread/INFO]: [UserLogin] Enabling UserLogin v2.13.1
+[02:17:29] [Server thread/INFO]: [UserLogin] UserLogin v2.13.1 enabled[m
+[02:17:29] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v8.0
+[02:17:29] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[02:17:29] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 8.0[m
+[02:17:29] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[02:17:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleTpa [8.0]
+[02:17:29] [Server thread/INFO]: [AdvancedNMotd] Enabling AdvancedNMotd v10.0.1
+[02:17:29] [Server thread/INFO]: [m
+[02:17:29] [Server thread/INFO]: [0;33;1m---------------- [0;37;1mAdvanced[0;37;22mNMotd[0;33;1m --------------[m
+[02:17:29] [Server thread/INFO]: [0;32;1m           AdvancedNMotd is enabled![m
+[02:17:29] [Server thread/INFO]: [0;33;1m---------------------------------------------[m
+[02:17:29] [Server thread/INFO]: [m
+[02:17:29] [Server thread/INFO]: [EasyCommandBlocker] Enabling EasyCommandBlocker v1.15.1
+[02:17:29] [Server thread/INFO]: [0;30;1m[[0;36;1mEasy[0;34;1mCommandBlocker[0;30;1m] [0;33;1mHas been enabled! [0;37;1mVersion: 1.15.1[m
+[02:17:29] [Server thread/INFO]: [0;30;1m[[0;36;1mEasy[0;34;1mCommandBlocker[0;30;1m] [0;33;1mThanks for using my plugin!   [0;37;1m~Ajneb97[m
+[02:17:29] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.3.2
+[02:17:29] [Server thread/ERROR]: [Multiverse-Core] Failed to load world lobby: Failure{reason=WORLD_FOLDER_INVALID}
+[02:17:29] [Server thread/ERROR]: [Multiverse-Core] Failed to load world SKYBLOCK_nether: Failure{reason=BUKKIT_ENVIRONMENT_MISMATCH}
+[02:17:29] [Server thread/ERROR]: [Multiverse-Core] Failed to load world SKYBLOCK_the_end: Failure{reason=BUKKIT_ENVIRONMENT_MISMATCH}
+[02:17:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.3.2]
+[02:17:30] [Server thread/INFO]: [Multiverse-Core] API service loaded!
+[02:17:30] [Server thread/INFO]: [Multiverse-Core] [32mVersion 5.3.2 (API v5.3) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71[39m
+[02:17:30] [Server thread/INFO]: [Multiverse-Core] [32mLoving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse[39m
+[02:17:30] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2
+[02:17:30] [Server thread/ERROR]: You are running an unsupported server version!
+[02:17:30] [Server thread/WARN]: §4Version mismatch! Please update EssentialsSpawn to the same version.
+[02:17:30] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[02:17:30] [Server thread/INFO]: No kits found to migrate.
+[02:17:30] [Server thread/INFO]: Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[02:17:30] [Server thread/INFO]: Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[02:17:30] [Server thread/INFO]: Selected Reflection Server State Provider as the provider for ServerStateProvider
+[02:17:30] [Server thread/INFO]: Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[02:17:30] [Server thread/INFO]: Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+[02:17:30] [Server thread/INFO]: Selected Reflection Known Commands Provider as the provider for KnownCommandsProvider
+[02:17:30] [Server thread/INFO]: Selected 1.9-1.20.4 Potion Meta Provider as the provider for PotionMetaProvider
+[02:17:30] [Server thread/INFO]: Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[02:17:30] [Server thread/INFO]: Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[02:17:30] [Server thread/INFO]: Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[02:17:30] [Server thread/INFO]: Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[02:17:30] [Server thread/INFO]: Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[02:17:30] [Server thread/INFO]: Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[02:17:30] [Server thread/INFO]: Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[02:17:30] [Server thread/INFO]: Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[02:17:30] [Server thread/INFO]: Selected Bukkit Material Tag Provider as the provider for MaterialTagProvider
+[02:17:30] [Server thread/INFO]: Selected Legacy Damage Event Provider as the provider for DamageEventProvider
+[02:17:30] [Server thread/INFO]: No provider found for SerializationProvider, but it is nullable
+[02:17:30] [Server thread/INFO]: No provider found for TickCountProvider, but it is nullable
+[02:17:30] [Server thread/INFO]: Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[02:17:30] [Server thread/INFO]: Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[02:17:30] [Server thread/INFO]: No provider found for ContainerProvider, but it is nullable
+[02:17:30] [Server thread/INFO]: No provider found for BiomeKeyProvider, but it is nullable
+[02:17:30] [Server thread/INFO]: Loaded 43880 items from items.json.
+[02:17:30] [Server thread/INFO]: Using locale es
+[02:17:30] [Server thread/INFO]: ServerListPingEvent: Spigot iterator API
+[02:17:30] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[02:17:30] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[02:17:30] [Server thread/INFO]: Using Vault based permissions (LuckPerms)
+[02:17:30] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.6.0
+[02:17:30] [Server thread/INFO]: [sleep-most] Hooked to PlaceholderAPI
+[02:17:30] [Server thread/INFO]: [sleep-most] Hooked to Essentials
+[02:17:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: sleepmost [5.6.0]
+[02:17:30] [Server thread/INFO]: [TAB] Enabling TAB v5.3.2
+[02:17:31] [Server thread/INFO]: [TAB] [38;2;85;255;85mEnabled in 130ms[m
+[02:17:31] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.22.0-dev+40-150dabb
+[02:17:31] [Server thread/WARN]: La version no coincide! Por favor actualiza todos los jars de Essentials a la misma version.
+[02:17:31] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[02:17:31] [Server thread/INFO]: [ChatManager] Enabling ChatManager v3.7.7
+[02:17:31] [Server thread/INFO]: [ChatManager] Hooked into: PlaceholderAPI v2.11.6
+[02:17:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: chatmanager [3.7.7]
+[02:17:31] [Server thread/INFO]: [ChatManager] Hooked into: Essentials v2.21.2
+[02:17:31] [Server thread/INFO]: [ChatManager] Hooked into: Vault v1.7.3-b131
+[02:17:31] [Server thread/INFO]: [ChatManager] Hooked into: LuckPerms v5.5.0
+[02:17:31] [Server thread/INFO]: [ChatManager] Plugin is up to date - v3.7.7
+[02:17:31] [Server thread/INFO]: [ChatManager] Starting Metrics.
+[02:17:31] [Server thread/INFO]: =========================[m
+[02:17:31] [Server thread/INFO]: Chat Manager[m
+[02:17:31] [Server thread/INFO]: Version 3.7.7[m
+[02:17:31] [Server thread/INFO]: Author: H1DD3NxN1NJA[m
+[02:17:31] [Server thread/INFO]: =========================[m
+[02:17:31] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.30.1
+[02:17:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:17:31] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[02:17:31] [Server thread/INFO]: Done (10.908s)! For help, type "help"
+[02:17:31] [Craft Scheduler Thread - 2/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[02:17:31] [Server thread/INFO]: Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[02:17:31] [Craft Scheduler Thread - 4/INFO]: [UserLogin] [0;32;1mRunning latest version! (v2.13.1)[m
+[02:17:31] [Craft Scheduler Thread - 2/INFO]: §6Obteniendo información de versión...
+[02:17:31] [Server thread/WARN]: [PlaceholderAPI] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.3-b131 which is not a depend or softdepend of this plugin.
+[02:17:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[02:17:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[02:17:31] [Server thread/INFO]: [0;32;1m2 placeholder hook(s) registered![m
+[02:17:31] [Craft Scheduler Thread - 5/INFO]: [Vault] Checking for Updates ... 
+[02:17:31] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.5.1, you're on: 5.5.0
+[02:17:31] [Craft Scheduler Thread - 4/INFO]: [m
+[02:17:31] [Craft Scheduler Thread - 4/INFO]: [0;37;22m------------ [0;37;1mAdvanced[0;37;22mNMotd[0;37;1m Updater[0;37;22m ----------[m
+[02:17:31] [Craft Scheduler Thread - 4/INFO]: [0;32;1mYou have the latest version of AdvancedNMotd![m
+[02:17:31] [Craft Scheduler Thread - 4/INFO]: [0;37;1mCurrent version: [0;36;1m10.0.0.[m
+[02:17:31] [Craft Scheduler Thread - 4/INFO]: [0;37;22m---------------------------------------------[m
+[02:17:31] [Craft Scheduler Thread - 4/INFO]: [m
+[02:17:31] [Craft Scheduler Thread - 5/INFO]: [Vault] No new version available
+[02:17:31] [pool-27-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (1cc66c00dd0d091057d8a04adf1cc0714d8391ad)
+[02:17:32] [Craft Scheduler Thread - 3/INFO]: [UserLogin] [0;37;22m▍ [0;34;22mCuenta [0;30;1m≫ [0;36;1m[21mBase de datos conectada![m
+[02:17:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[02:17:32] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[02:17:33] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[02:17:33] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enviar la consola al canal asignado TC:minecraft-console(879508226972975134)
+[02:17:33] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 2/2 guilds (0 cancelled)
+[02:17:33] [DiscordSRV - Initialization/INFO]: [DiscordSRV] JDBC tables passed validation, using JDBC account backend
+[02:17:33] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Activando complementos de Essentials
+[02:17:33] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Activando complementos de LuckPerms
+[02:17:33] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Activando complementos de Multiverse-Core
+[02:17:33] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Activando complementos de PlaceholderAPI
+[02:17:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: discordsrv [1.30.1]
+[02:18:27] [Netty Epoll Server IO #1/INFO]: [0;31;1mCould not get version of a client viewing motd! Continue with version 735 (1.16).[m
+[02:18:27] [User Authenticator #1/INFO]: UUID of player Fzfu is b86dea4c-4598-3374-824e-c009144e335e
+[02:18:28] [Server thread/INFO]: Fzfu[/127.61.79.81:42161] logged in with entity id 12 at ([SKYBLOCK]0.0, 73.0, 0.0)
+[02:18:42] [Server thread/INFO]: Fzfu issued server command: /discord unlink
+[02:18:48] [Server thread/INFO]: Fzfu issued server command: /discord link
+[02:19:17] [Server thread/INFO]: Fzfu issued server command: /discord reload
+[02:19:17] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 2/2 guilds (0 cancelled)
+[02:23:37] [Server thread/INFO]: Fzfu issued server command: /tab reload
+[02:23:37] [Server thread/INFO]: [TAB] [38;2;85;255;85mDisabled in 1ms[m
+[02:23:37] [Server thread/INFO]: [TAB] [38;2;85;255;85mEnabled in 22ms[m
+[02:23:52] [Server thread/INFO]: Fzfu issued server command: /tab reload
+[02:23:52] [Server thread/INFO]: [TAB] [38;2;85;255;85mDisabled in 0ms[m
+[02:23:52] [Server thread/INFO]: [TAB] [38;2;85;255;85mEnabled in 12ms[m
+[02:24:00] [Server thread/INFO]: Fzfu issued server command: /tab reload
+[02:24:00] [Server thread/INFO]: [TAB] [38;2;85;255;85mDisabled in 1ms[m
+[02:24:00] [Server thread/INFO]: [TAB] [38;2;85;255;85mEnabled in 16ms[m
+[02:24:47] [Server thread/INFO]: Fzfu issued server command: /tab reload
+[02:24:47] [Server thread/INFO]: [TAB] [38;2;85;255;85mDisabled in 1ms[m
+[02:24:47] [Server thread/INFO]: [0;31;1m[TAB] [WARN] [38;2;255;85;85mFile plugins/TAB/config.yml has broken syntax.[m
+[02:24:47] [Server thread/INFO]: [TAB] [38;2;255;170;0mError message from yaml parser: while parsing a block mapping
+[02:24:47] [Server thread/INFO]:  in 'reader', line 12, column 7:
+[02:24:47] [Server thread/INFO]:           header:
+[02:24:47] [Server thread/INFO]:           ^
+[02:24:47] [Server thread/INFO]: expected <block end>, but found '<scalar>'
+[02:24:47] [Server thread/INFO]:  in 'reader', line 37, column 8:
+[02:24:47] [Server thread/INFO]:         - "GROUPS:owner,admin,mod,helper,bu ... 
+[02:24:47] [Server thread/INFO]:            ^
+[02:24:47] [Server thread/INFO]: [m
+[02:24:47] [Server thread/INFO]: [TAB] [38;2;255;85;255mSuggestions to fix yaml syntax:[m
+[02:24:47] [Server thread/INFO]: [TAB] [38;2;255;85;255m- Add " at the end of line 23[m
+[02:24:47] [Server thread/INFO]: [0;31;1m[TAB] [WARN] [38;2;255;85;85mDid not enable due to a broken configuration file.[m
+[02:25:08] [Server thread/INFO]: [TAB] [38;2;85;255;85mEnabled in 11ms[m
+[02:25:08] [Server thread/INFO]: [38;2;255;255;255m[38;2;0;170;170m[TAB] Successfully reloaded[m
+[02:25:17] [Server thread/INFO]: Fzfu issued server command: /tab reload
+[02:25:17] [Server thread/INFO]: [TAB] [38;2;85;255;85mDisabled in 0ms[m
+[02:25:17] [Server thread/INFO]: [TAB] [38;2;85;255;85mEnabled in 9ms[m
+[02:25:31] [Server thread/INFO]: Fzfu issued server command: /tab reload
+[02:25:31] [Server thread/INFO]: [TAB] [38;2;85;255;85mDisabled in 1ms[m
+[02:25:31] [Server thread/INFO]: [TAB] [38;2;85;255;85mEnabled in 12ms[m
+[02:25:41] [Server thread/INFO]: Fzfu issued server command: /tab reload
+[02:25:41] [Server thread/INFO]: [TAB] [38;2;85;255;85mDisabled in 1ms[m
+[02:25:41] [Server thread/INFO]: [TAB] [38;2;85;255;85mEnabled in 9ms[m
+[02:29:30] [Server thread/INFO]: Fzfu issued server command: /discord unlink
+[02:33:06] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[02:33:13] [Server thread/INFO]: Fzfu lost connection: Disconnected
+[02:33:42] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[02:39:03] [Server thread/INFO]: Stopping the server
+[02:39:03] [Server thread/INFO]: Stopping server
+[02:39:03] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.30.1

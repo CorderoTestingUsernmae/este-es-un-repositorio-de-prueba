@@ -1,0 +1,201 @@
+[01:01:19] [main/INFO] [cpw.mods.modlauncher.Launcher]: ModLauncher running: args [--launchTarget, forge_server, --fml.forgeVersion, 48.1.0, --fml.mcVersion, 1.20.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230921.100330, nogui]
+[01:01:19] [main/INFO] [cpw.mods.modlauncher.Launcher]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 17.0.16+8-Ubuntu-0ubuntu124.04.1
+[01:01:19] [main/INFO] [cpw.mods.modlauncher.Launcher]: ModLauncher 10.1.1 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[01:01:19] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler]: ImmediateWindowProvider not loading because launch target is forge_server
+[01:01:19] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/este-es-un-repositorio-de-prueba/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23108!/ Service=ModLauncher Env=SERVER
+[01:01:19] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator]: No dependencies to load found. Skipping!
+[01:01:20] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler]: Launching target 'forge_server' with arguments [nogui]
+[01:01:27] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod]: Forge mod loading, version 48.1.0, for MC 1.20.2 with MCP 20230921.100330
+[01:01:27] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge]: MinecraftForge v48.1.0 Initialized
+[01:01:27] [modloading-worker-0/INFO] [com.mohistmc.MohistMC]: Mohist mod loading.....
+[01:01:27] [modloading-worker-0/INFO] [com.mohistmc.MohistMC]: EventDispatcherRegistry initialized
+[01:01:29] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:01:31] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Loaded 7 recipes
+[01:01:32] [main/INFO] [net.minecraft.advancements.AdvancementTree]: Loaded 1271 advancements
+[01:01:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.20.2
+[01:01:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:01:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:01:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Generating keypair
+[01:01:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25580
+[01:01:32] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener]: Using epoll channel type
+[01:01:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:01:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[01:01:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:01:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:01:32] [Server thread/INFO] [Minecraft]: This server is running Mohist version 1.20.2-2371352a (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT, Forge version 48.1.0)
+[01:01:33] [Server thread/INFO] [Minecraft]: Debug logging is enabled
+[01:01:33] [Server thread/INFO] []: Server Ping Player Sample Count: 12
+[01:01:33] [Server thread/INFO] [Minecraft]: Using 4 threads for Netty based IO
+[01:01:37] [Server thread/INFO] [com.viaversion.viaversion.ViaVersionPlugin]: [ViaVersion] Loading ViaVersion v5.5.0
+[01:01:37] [Server thread/INFO] [com.viaversion.viaversion.ViaVersionPlugin]: [ViaVersion] ViaVersion 5.5.0 is now loaded. Registering protocol transformers and injecting...
+[01:01:38] [Via-Mappingloader-0/INFO] [com.viaversion.viaversion.ViaVersionPlugin]: [ViaVersion] Loading block connection mappings ...
+[01:01:38] [Via-Mappingloader-0/INFO] [com.viaversion.viaversion.ViaVersionPlugin]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[01:01:39] [Server thread/ERROR] [com.viaversion.viabackwards.BukkitPlugin]: [ViaBackwards] ================================
+[01:01:39] [Server thread/ERROR] [com.viaversion.viabackwards.BukkitPlugin]: [ViaBackwards] YOUR VIAVERSION IS OUTDATED (you are running 5.5.0)
+[01:01:39] [Server thread/ERROR] [com.viaversion.viabackwards.BukkitPlugin]: [ViaBackwards] PLEASE USE VIAVERSION 5.5.1 OR NEWER
+[01:01:39] [Server thread/ERROR] [com.viaversion.viabackwards.BukkitPlugin]: [ViaBackwards] LINK: https://ci.viaversion.com/
+[01:01:39] [Server thread/ERROR] [com.viaversion.viabackwards.BukkitPlugin]: [ViaBackwards] VIABACKWARDS WILL NOW DISABLE
+[01:01:39] [Server thread/ERROR] [com.viaversion.viabackwards.BukkitPlugin]: [ViaBackwards] ================================
+[01:01:39] [Server thread/INFO] [com.viaversion.viarewind.BukkitPlugin]: [ViaRewind] Registering protocols...
+[01:01:40] [Server thread/INFO] [com.kixmc.uh.core.Main]: [UltimateHomes] Loading UltimateHomes v3.1
+[01:01:40] [Server thread/INFO] [com.viaversion.viabackwards.BukkitPlugin]: [ViaBackwards] Loading ViaBackwards v5.5.1
+[01:01:40] [Server thread/INFO] [com.elchologamer.userlogin.UserLogin]: [UserLogin] Loading UserLogin v2.13.1
+[01:01:40] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[01:01:40] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib]: [ProtocolLib] Loading ProtocolLib v5.4.0
+[01:01:40] [Server thread/INFO] [com.viaversion.viarewind.BukkitPlugin]: [ViaRewind] Loading ViaRewind v4.0.11
+[01:01:40] [Server thread/INFO] [me.mulemuledupe.simpletpa.SimpleTpa]: [SimpleTpa] Loading SimpleTpa v8.0
+[01:01:40] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Loading LuckPerms v5.5.0
+[01:01:41] [Server thread/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Loading DiscordSRV v1.30.1
+[01:01:41] [Server thread/INFO] [me.mrgeneralq.sleepmost.Sleepmost]: [sleep-most] Loading sleep-most v5.6.0
+[01:01:41] [Server thread/INFO] [ecb.ajneb97.spigot.EasyCommandBlocker]: [EasyCommandBlocker] Loading EasyCommandBlocker v1.15.1
+[01:01:41] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib]: [ProtocolLib] Enabling ProtocolLib v5.4.0
+[01:01:41] [Server thread/INFO] [com.viaversion.viarewind.BukkitPlugin]: [ViaRewind] Enabling ViaRewind v4.0.11
+[01:01:41] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Enabling LuckPerms v5.5.0
+[01:01:42] [Server thread/INFO] [Console]:         __    
+[01:01:42] [Server thread/INFO] [Console]:   |    |__)   LuckPerms v5.5.0
+[01:01:42] [Server thread/INFO] [Console]:   |___ |      Running on Bukkit - Mohist
+[01:01:42] [Server thread/INFO] [Console]: 
+[01:01:42] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Loading configuration...
+[01:01:43] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Loading storage provider... [MYSQL]
+[01:01:43] [Server thread/INFO] [me.lucko.luckperms.lib.hikari.HikariDataSource]: luckperms-hikari - Starting...
+[01:01:43] [Server thread/INFO] [me.lucko.luckperms.lib.hikari.HikariDataSource]: luckperms-hikari - Start completed.
+[01:01:44] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Loading messaging service... [SQL]
+[01:01:45] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Loading internal permission managers...
+[01:01:45] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Performing initial data load...
+[01:01:45] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Successfully enabled. (took 4368ms)
+[01:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[01:01:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[01:01:51] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:01:52] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:01:53] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 45%
+[01:01:53] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 45%
+[01:01:53] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 45%
+[01:01:54] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 50%
+[01:01:54] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 59%
+[01:01:55] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 65%
+[01:01:55] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 72%
+[01:01:56] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 76%
+[01:01:56] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 82%
+[01:01:57] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 5457 ms
+[01:01:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:the_end
+[01:01:58] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:01:58] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:01:58] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:01:58] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 4%
+[01:01:59] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 90%
+[01:01:59] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 2037 ms
+[01:01:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:the_nether
+[01:02:00] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:00] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:00] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:00] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:01] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 42%
+[01:02:01] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 2279 ms
+[01:02:01] [Server thread/INFO] [com.viaversion.viaversion.ViaVersionPlugin]: [ViaVersion] Enabling ViaVersion v5.5.0
+[01:02:01] [Server thread/INFO] [com.viaversion.viaversion.ViaVersionPlugin]: [ViaVersion] ViaVersion detected server version: 1.20.2 (764)
+[01:02:01] [Server thread/WARN] [com.viaversion.viaversion.ViaVersionPlugin]: [ViaVersion] Please update your Java runtime to at least Java 21 (your version is 17.0.16).
+[01:02:01] [Server thread/WARN] [com.viaversion.viaversion.ViaVersionPlugin]: [ViaVersion] At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[01:02:01] [Server thread/INFO] [com.kixmc.uh.core.Main]: [UltimateHomes] Enabling UltimateHomes v3.1
+[01:02:01] [Server thread/INFO] [Console]: 
+[01:02:01] [Server thread/INFO] [Console]: --------------------------------------
+[01:02:01] [Server thread/INFO] [Console]:        UltimateHomes by kixmc
+[01:02:01] [Server thread/INFO] [Console]:        Enabled on version 3.1
+[01:02:01] [Server thread/INFO] [Console]: --------------------------------------
+[01:02:01] [Server thread/INFO] [Console]:  
+[01:02:01] [Server thread/INFO] [com.viaversion.viabackwards.BukkitPlugin]: [ViaBackwards] Enabling ViaBackwards v5.5.1
+[01:02:01] [Server thread/INFO] [com.elchologamer.userlogin.UserLogin]: [UserLogin] Enabling UserLogin v2.13.1
+[01:02:01] [Server thread/INFO] [Console]: [UserLogin] UserLogin v2.13.1 enabled
+[01:02:01] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[01:02:02] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Fetching available expansion information...
+[01:02:02] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Successfully registered internal expansion: mohist [1.20.2]
+[01:02:02] [Server thread/INFO] [com.mohistmc.MohistMC]: Hook PlaceholderAPI!
+[01:02:02] [Server thread/INFO] [me.mulemuledupe.simpletpa.SimpleTpa]: [SimpleTpa] Enabling SimpleTpa v8.0
+[01:02:02] [Server thread/INFO] [Console]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[01:02:02] [Server thread/INFO] [Console]: [SimpleTpa] Simple Tpa has been enabled on version 8.0
+[01:02:02] [Server thread/INFO] [Minecraft]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[01:02:02] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Successfully registered internal expansion: SimpleTpa [8.0]
+[01:02:02] [Server thread/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Enabling DiscordSRV v1.30.1
+[01:02:02] [Server thread/INFO] [me.mrgeneralq.sleepmost.Sleepmost]: [sleep-most] Enabling sleep-most v5.6.0
+[01:02:03] [Server thread/INFO] [Minecraft]: [sleep-most] Hooked to PlaceholderAPI
+[01:02:03] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Successfully registered internal expansion: sleepmost [5.6.0]
+[01:02:03] [Server thread/INFO] [ecb.ajneb97.spigot.EasyCommandBlocker]: [EasyCommandBlocker] Enabling EasyCommandBlocker v1.15.1
+[01:02:03] [pool-15-thread-1/WARN] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Got weird build comparison status from GitHub: 404. Assuming plugin is up-to-date.
+[01:02:03] [Server thread/INFO] [Console]: [EasyCommandBlocker] Has been enabled! Version: 1.15.1
+[01:02:03] [Server thread/INFO] [Console]: [EasyCommandBlocker] Thanks for using my plugin!   ~Ajneb97
+[01:02:03] [Server thread/INFO] [Minecraft]: <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<==============
+[01:02:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:lobby
+[01:02:06] [Netty Epoll Server IO #1/WARN] [com.comphenix.protocol.ProtocolLib]: [ProtocolLib] Loaded class javax.annotation.Nonnull from DiscordSRV v1.30.1 which is not a depend or softdepend of this plugin.
+[01:02:07] [DiscordSRV - Initialization/ERROR] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] ===================================================
+[01:02:07] [DiscordSRV - Initialization/ERROR] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV]  
+[01:02:07] [DiscordSRV - Initialization/ERROR] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV]  DiscordSRV could not connect to Discord because:
+[01:02:07] [DiscordSRV - Initialization/ERROR] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV]  The bot token is invalid
+[01:02:07] [DiscordSRV - Initialization/ERROR] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV]  
+[01:02:07] [DiscordSRV - Initialization/ERROR] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] ===================================================
+[01:02:09] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:02:10] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 1%
+[01:02:11] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 50%
+[01:02:11] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks]: [/127.207.253.11:55315] Disconnecting VANILLA connection attempt: Server is still starting! Please wait before reconnecting.
+[01:02:11] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks]: [/127.207.253.11:56427] Disconnecting VANILLA connection attempt: Server is still starting! Please wait before reconnecting.
+[01:02:11] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 7803 ms
+[01:02:11] [Server thread/INFO] [Minecraft]: <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<==============
+[01:02:11] [Server thread/INFO] [com.mohistmc.plugins.Main]: [Mohist] Enabling Mohist v1.20.2
+[01:02:11] [Server thread/INFO] [Minecraft]: Server permissions file permissions.yml is empty, ignoring it
+[01:02:11] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[01:02:11] [Server thread/INFO] [Console]: 0 placeholder hook(s) registered!
+[01:02:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (25.828s)! For help, type "help"
+[01:02:11] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Successfully initialized permission handler forge:default_handler
+[01:02:11] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Forwarding forge permission[forge:default_handler] to bukkit[mohist:permission]
+[01:02:11] [Craft Scheduler Thread - 1/INFO] [com.viaversion.viaversion.ViaVersionPlugin]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[01:02:11] [Server thread/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Disabling DiscordSRV v1.30.1
+[01:02:11] [Craft Scheduler Thread - 2/INFO] [Console]: [UserLogin] Running latest version! (v2.13.1)
+[01:02:12] [Server thread/WARN] [com.viaversion.viaversion.ViaVersionPlugin]: [ViaVersion] There is a newer plugin version available: 5.5.1, you're on: 5.5.0
+[01:02:43] [Server thread/INFO] [Console]: This server is running Mohist version 1.20.2-2371352a (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT, Forge version 48.1.0)
+[01:03:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping the server
+[01:03:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:03:01] [Server thread/INFO] [com.mohistmc.plugins.Main]: [Mohist] Disabling Mohist v1.20.2
+[01:03:01] [Server thread/INFO] [ecb.ajneb97.spigot.EasyCommandBlocker]: [EasyCommandBlocker] Disabling EasyCommandBlocker v1.15.1
+[01:03:01] [Server thread/INFO] [Console]: [EasyCommandBlocker] Has been disabled! Version: 1.15.1
+[01:03:01] [Server thread/INFO] [me.mrgeneralq.sleepmost.Sleepmost]: [sleep-most] Disabling sleep-most v5.6.0
+[01:03:01] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Disabling LuckPerms v5.5.0
+[01:03:01] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Starting shutdown process...
+[01:03:01] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Closing messaging service...
+[01:03:01] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Closing storage...
+[01:03:01] [Server thread/INFO] [me.lucko.luckperms.lib.hikari.HikariDataSource]: luckperms-hikari - Shutdown initiated...
+[01:03:01] [Server thread/INFO] [me.lucko.luckperms.lib.hikari.HikariDataSource]: luckperms-hikari - Shutdown completed.
+[01:03:01] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Goodbye!
+[01:03:01] [Server thread/INFO] [me.mulemuledupe.simpletpa.SimpleTpa]: [SimpleTpa] Disabling SimpleTpa v8.0
+[01:03:01] [Server thread/INFO] [Console]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[01:03:01] [Server thread/INFO] [Console]: [SimpleTpa] Simple Tpa has been disabled on version 8.0
+[01:03:01] [Server thread/INFO] [com.viaversion.viarewind.BukkitPlugin]: [ViaRewind] Disabling ViaRewind v4.0.11
+[01:03:01] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib]: [ProtocolLib] Disabling ProtocolLib v5.4.0
+[01:03:01] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[01:03:01] [Server thread/INFO] [com.elchologamer.userlogin.UserLogin]: [UserLogin] Disabling UserLogin v2.13.1
+[01:03:01] [Server thread/INFO] [com.viaversion.viabackwards.BukkitPlugin]: [ViaBackwards] Disabling ViaBackwards v5.5.1
+[01:03:01] [Server thread/INFO] [com.kixmc.uh.core.Main]: [UltimateHomes] Disabling UltimateHomes v3.1
+[01:03:01] [Server thread/INFO] [com.viaversion.viaversion.ViaVersionPlugin]: [ViaVersion] Disabling ViaVersion v5.5.0
+[01:03:01] [Server thread/INFO] [com.viaversion.viaversion.ViaVersionPlugin]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[01:03:01] [Server thread/INFO] [com.viaversion.viaversion.ViaVersionPlugin]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[01:03:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:03:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:03:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:03:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:03:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:03:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[lobby]'/minecraft:lobby
+[01:03:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:03:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:03:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:03:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (lobby): All chunks are saved
+[01:03:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.207.253.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1761536765124
+  login: 1761535902026
+money: '295.0'
+last-account-name: gatix
+lastlocation:
+  world: eccfcc0a-7ed5-4b60-a189-e1ba56394fe7
+  world-name: divine_def
+  x: -668.8805932370301
+  y: 62.5
+  z: 1168.8447587580786
+  yaw: -43.69468307495117
+  pitch: 53.34405517578125
+logoutlocation:
+  world: d8c254e3-b1be-49ab-b83b-bb76db4dbf38
+  world-name: Lobby_Bedwars
+  x: -7.738704396523111
+  y: 79.5
+  z: 2.564748233881982
+  yaw: 66.78829956054688
+  pitch: -25.472742080688477

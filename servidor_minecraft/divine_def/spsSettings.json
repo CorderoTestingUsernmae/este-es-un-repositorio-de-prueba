@@ -1,0 +1,13 @@
+{
+  "gameType": "ADVENTURE",
+  "difficulty": "PEACEFUL",
+  "difficultyLocked": false,
+  "cheats": true,
+  "invited": [
+    "89518ebe-1dcb-4723-83a1-210ef9572a53"
+  ],
+  "shareResourcePack": false,
+  "oppedPlayers": [
+    "89518ebe-1dcb-4723-83a1-210ef9572a53"
+  ]
+}

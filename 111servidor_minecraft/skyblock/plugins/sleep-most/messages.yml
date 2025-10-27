@@ -1,0 +1,65 @@
+# PERSONALIZA LOS MENSAJES DE SLEEP-MOST.
+# Para desactivar mensajes, pon el mensaje en ''
+# Los placeholders están disponibles aquí --> https://sleepmost.pseudonova.com/placeholders/sleepmost-config
+# ¿Necesitas soporte? Únete a nuestro servidor de Discord --> https://discord.pseudonova.com/
+#
+# Agrega múltiples mensajes para que se seleccionen aleatoriamente así:
+# tipodemensaje:
+#  - 'mensaje1'
+
+prefix: '&6[&bPePe Studio&6] &7≫'
+user:
+  night-skipped-chat: '&a¡Buenos días, %player%!'
+  storm-skipped-chat: '&a¡El cielo se está despejando!'
+  players-left-night: '&bDurmiendo para saltar la noche &f[&c%sleeping%/%required%&f]&b!'
+  players-left-storm: '&bDurmiendo para saltar la tormenta &f[&c%sleeping%/%required%&f]&b!'
+  sleep-prevented: '&c¡No puedes dormir en este mundo!'
+  no-sleep-storm: '&cNo puedes dormir durante una tormenta eléctrica'
+  cannot-sleep-now: '&cNo puedes dormir ahora mismo'
+  sleep-success: '&bAhora estás dormido'
+  no-longer-sleeping: '&cYa no estás durmiendo'
+  no-bed-location-set: '&cNo hay una ubicación de cama establecida'
+  teleported-to-bed: '&bHas sido teletransportado a tu cama'
+  sleep-command-disabled: '&cEl comando de dormir está deshabilitado'
+  insomnia-not-sleepy: '&cNo te sientes soñoliento en este momento'
+  insomnia-feeling-sleepy: '&bEmpiezas a sentir sueño...'
+  kicked-player-from-bed: '&bHas echado a &a%player% &b de su cama'
+  kicked-from-bed: '&cHas sido echado de tu cama'
+  kicking-not-allowed: '&cNo tienes permiso para echar a este jugador de su cama'
+  night-skipped-title: '&aNoche saltada'
+  night-skipped-subtitle: '&b¡Buenos días, sol!'
+  storm-skipped-title: '&eTormenta saltada'
+  storm-skipped-subtitle: '&bQué clima...'
+  longer-night:
+    sleep-prevented: '&cLa noche es más larga de lo habitual, aún no te sientes soñoliento'
+boss-bar:
+  title: '&bJugadores durmiendo para saltar el %skip-cause% &f[&c%sleeping-count%&f/&c%sleeping-required-count%&f]'
+admin:
+  no-console-command: '&cEste comando no puede ejecutarse desde la consola'
+  no-permission-command: '&cNo tienes permiso para hacer esto'
+  unknown-command: '&cComando desconocido'
+  config-reloaded: '&aHas recargado exitosamente el plugin Sleep-Most'
+  already-enabled-for-world: '&cSleep-Most ya está habilitado en &a%world%'
+  already-disabled-for-world: '&cSleep-Most ya está deshabilitado en &a%world%'
+  enabled-for-world: '&bSleep-Most ahora está habilitado en &a%world%'
+  disabled-for-world: '&cSleep-Most ahora está deshabilitado en &a%world%'
+  not-enabled-for-world: '&cSleep-Most no está habilitado en &a%world%&c. Actívalo
+    con &a/sm enable'
+  currently-disabled: '&bSleep-Most está actualmente &cdeshabilitado &bpara este mundo.
+    Escribe &a/sm enable &bpara habilitar Sleep-Most en este mundo'
+  one-player-sleep-set: '&bSe ha configurado el modo de un solo jugador durmiendo'
+  specify-player: '&cPor favor especifica el nombre del jugador'
+  target-not-sleeping: '&cEl jugador no está durmiendo'
+  target-not-online: '&cEl jugador no está en línea'
+  insomnia-already-enabled: '&cEl insomnio ya está habilitado en este mundo'
+  insomnia-enabled: '&bEl insomnio está habilitado'
+  only-during-night-command: '&cEste comando solo puede usarse durante la noche'
+  kick-out-bed: '&c&l[echar de la cama]'
+flag:
+  all-reset-success: '&cTodas las banderas fueron reiniciadas exitosamente'
+  set-in-world: '&bEl valor de la bandera &e%flag% &ben tu mundo es &e%value%&b.'
+  reset-in-world: '&bLa bandera &e%flag% &bha sido reiniciada a &e%default-value%'
+  not-exist: '&cEsta bandera no existe'
+clock:
+  title: '&b%time%'
+  subtitle: '&a>>>'
